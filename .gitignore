@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+# Notebooks
+.ipynb_checkpoints/
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+# Mac/OS
+.DS_Store
+# Node
+node_modules/
+# Logs
+*.log
+
+.vs/
