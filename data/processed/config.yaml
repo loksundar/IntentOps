@@ -1,0 +1,25 @@
+seed: 42
+banking77:
+  lowercase: true
+  val_fraction: 0.1
+wnut2017:
+  lowercase: false
+  format: jsonl
+  splits:
+    train: wnut17train.conll
+    val: emerging.dev.conll
+    test: emerging.test.conll
+tokenizer:
+  ner_word_min_freq: 1
+  specials:
+    pad: <pad>
+    unk: <unk>
+artifacts:
+  intent_label_map: data/processed/label_maps/intent_label_map.json
+  ner_label_map: data/processed/label_maps/ner_label_map.json
+  ner_word_vocab: data/processed/tokenizers/word_vocab.json
+  ner_char_vocab: data/processed/tokenizers/char_vocab.json
+banking77:
+  lowercase: true
+  val_fraction: 0.1
+  dropped_train_due_to_test_overlap: 7
