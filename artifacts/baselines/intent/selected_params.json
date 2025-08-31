@@ -1,0 +1,13 @@
+{
+  "vec_params": {
+    "ngram_range": [
+      1,
+      1
+    ],
+    "min_df": 2,
+    "max_df": 0.9,
+    "sublinear_tf": true,
+    "strip_accents": "unicode"
+  },
+  "C": 1.0
+}
