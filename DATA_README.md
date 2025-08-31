@@ -15,3 +15,8 @@
 ## clinc_oos (JSON, optional)
 - Files: `data_full.json`, `data_oos_plus.json`
 - Format (per CLINC repo): `train/val/test` contain in-scope utterances grouped by intent; `oos_*` contain OOS utterances.
+
+## Redactions (WNUT-2017)
+- On $(Get-Date -Format "yyyy-MM-dd"), detected 4 phone-like patterns in `wnut17train.conll` via regex scan.
+- Redacted digits → 'X' (format preserved). Original file backed up as `wnut17train.conll.bak`.
+
