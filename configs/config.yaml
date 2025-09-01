@@ -1,0 +1,29 @@
+# configs/config.yaml
+random_seed: 2025
+
+datasets:
+  banking77:
+    path_raw: "data/raw/banking77"
+    path_out: "data/processed/banking77"
+    # Re-split the entire dataset (train+test) after dedupe to remove leakage
+    resplit_all: true
+    val_fraction: 0.10
+    test_fraction: 0.10
+    text_normalization:
+      unicode_form: "NFC"
+      strip: true
+      collapse_spaces: true
+      lowercase: true
+  wnut_2017:
+    path_raw: "data/raw/wnut_2017"
+    path_out: "data/processed/wnut_2017"
+    keep_case: true
+  clinc_oos:
+    path_raw: "data/raw/clinc_oos"
+    path_out: "data/processed/clinc_oos"
+    enabled: true
+
+outputs:
+  label_map_intent: "data/processed/label_map_intent.json"
+  label_map_ner:    "data/processed/label_map_ner.json"
+  manifest:         "data/processed/manifest.json"
