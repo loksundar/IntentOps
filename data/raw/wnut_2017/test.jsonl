@@ -700,26 +700,36 @@
 {"tokens": ["How", "long", "untill", "Quidditch", "is", "played", "properly", "?"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Being", "insulting", "and", "rude", ",", "because", "your", "tribe", "demonizes", "politicians", "whose", "beliefs", "differ", "with", "yours", "is", "not", "\"", "the", "truth", "\"", ".", "You", "can", "have", "a", "civil", "discussion", "without", "being", "strictly", "PC", ".", "When", "you", "use", "pejoratives", "like", "that", ",", "it", "diminishes", "the", "effectiveness", "of", "your", "argument", "for", "anyone", "who", "is", "n", "'", "t", "already", "inclined", "to", "agree", "with", "it", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["What", "is", "the", "significance", "of", "buttocks", "?"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["You", "get", "what", "you", "accept", ".", "If", "you", "set", "high", "standards", "your", "employees", "will", "rise", "to", "the", "challenge", ".", "smallbiz", "https://t.co/B1AxZpTxpB"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["You", "get", "what", "you", "accept", ".", "If", "you", "set", "high", "standards", "your", "employees", "will", "rise", "to", "the", "challenge", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["smallbiz", "https://t.co/B1AxZpTxpB"], "ner_tags": [0, 0]}
 {"tokens": ["RT", "@", "baabyylex", ":", "rape", ",", "incest", ",", "financial", "issues", ",", "health", "issues", ",", "the", "millions", "of", "children", "that", "are", "already", "put", "up", "for", "adoption", "that", "d", "…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["EP", "8", ":", "@", "YungBang", "954", "\"", "I", "Jumped", "off", "the", "porch", "in", "the", "8", "th", "or", "9", "th", "grade", "\"", "https://t.co/nSEqjAl4O8"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "soyourelikethat", ":", "write", "honestly", "to", "yourself", "or", "don", "'", "t", "waste", "the", "damn", "time"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Localizing", "Yakuza", "0", "was", "about", "balancing", "clarity", "and", "authenticity", ":", "https://t.co/S5pUlpNwT3"], "ner_tags": [0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["There", "is", "pleasure", "in", "the", "pathless", "woods", "Kalupey"], "ner_tags": [0, 0, 0, 0, 0, 0, 7, 9]}
+{"tokens": ["There", "is", "pleasure", "in", "the", "pathless", "woods"], "ner_tags": [0, 0, 0, 0, 0, 0, 7]}
+{"tokens": ["Kalupey"], "ner_tags": [9]}
 {"tokens": ["sex", "slave", "sites", "girl", "uses", "urinal", "porn", "https://t.co/hroXOjtyem"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "omsblvr", ":", "for", "myself", ",", "a", "heart", ".", "https://t.co/l3Hk7pWE5g"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "skipsy", "_", "l", "Right", "?", "!", "I", "went", "to", "take", "a", "shower", "&", "amp", ";", "head", "to", "bed", ".", "My", "phone", "was", "blowing", "up", ".", "I", "was", "like", ".", ".", "wth", "is", "happening", "?", "Then", "booya", "!", "Hit", "that", "quota", "!"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Waitlist", "3", "but", "doubt", "I", "'", "ll", "get", "in", "the", "class", ".", "Low", "key", "not", "even", "mad"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Waitlist"], "ner_tags": [0]}
+{"tokens": ["3", "but", "doubt", "I", "'", "ll", "get", "in", "the", "class", ".", "Low", "key", "not", "even", "mad"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["'", "'", "Ladies", "And", "Gentlemen", ",", "We", "Bring", "To", "You", "The", "Girl", "With", "The", "Biggest", "Vagina", "In", "The", "World", "https://t.co/6JYh3Id7BW"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "heyimbee", ":", "@", "StrauberryJam", "SHE", "IS", "DEAD"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "_", "yungJ", "3", ":", "I", "just", "need", "my", "diploma"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["https://t.co/59y6vduVlw"], "ner_tags": [0]}
 {"tokens": ["https://t.co/LLXf24DHsh"], "ner_tags": [0]}
 {"tokens": ["Mom", "still", "defending", "the", "Trump", "sexist", "racist", "line", ".", "Worked", "wonders", "on", "November", "."], "ner_tags": [0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Children", "'", "s", "of", "A", "is", "hiring", "!", "Audiologist", "-", "B", "jobs", "in", "BIRMINGHAM", "Apply", "today", "https://t.co/wKWqB2ix2I"], "ner_tags": [1, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0]}
-{"tokens": ["RT", "@", "iCleverOfficial", ":", "Giveaway", "time", "!", "RT", "&", "amp", ";", "Follow", "us", "for", "a", "chance", "to", "WIN", "a", "fitness", "gift", "basket", "full", "of", "iClever", "products", "!", "…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["Children", "'", "s", "of", "A", "is", "hiring", "!", "Audiologist", "-", "B"], "ner_tags": [1, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["jobs", "in", "BIRMINGHAM", "Apply", "today", "https://t.co/wKWqB2ix2I"], "ner_tags": [0, 0, 7, 0, 0, 0]}
+{"tokens": ["RT", "@", "iCleverOfficial", ":"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["Giveaway", "time", "!", "RT", "&", "amp", ";", "Follow", "us", "for", "a", "chance", "to"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["WIN", "a", "fitness", "gift", "basket", "full", "of", "iClever", "products", "!", "…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]}
 {"tokens": ["adult", "learning", "grant", "china", "teen", "xxx", "https://t.co/jnPqolZgSP"], "ner_tags": [0, 0, 0, 7, 0, 0, 0]}
-{"tokens": ["Celebrate", "Burns", "Night", "with", "the", "Bobby", "Burns", "cocktail", "https://t.co/VNgfThJN2V", "whisky", "cocktails", "homebartender", "cocktailsathome"], "ner_tags": [0, 9, 0, 0, 0, 9, 10, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Celebrate", "Burns", "Night", "with", "the", "Bobby", "Burns", "cocktail", "https://t.co/VNgfThJN2V"], "ner_tags": [0, 9, 0, 0, 0, 9, 10, 0, 0]}
+{"tokens": ["whisky"], "ner_tags": [0]}
+{"tokens": ["cocktails"], "ner_tags": [0]}
+{"tokens": ["homebartender"], "ner_tags": [0]}
+{"tokens": ["cocktailsathome"], "ner_tags": [0]}
 {"tokens": ["RT", "@", "cIits", ":", "Being", "sexually", "frustrated", "is", "the", "worst"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "CreepBJ", ":", "Wow", "!", "!", "See", "thru", "leggings", "are", "awesome", "https://t.co/YPSuF6GgVm", "via", "@", "SexySights", "@", "SexyCreeps", "@", "CreepShotsLive", "https://t.co/0TwauVET…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Just", "posted", "a", "photo", "https://t.co/mi0kwHp0vl"], "ner_tags": [0, 0, 0, 0, 0]}
@@ -733,10 +743,14 @@
 {"tokens": ["RT", "@", "bwecht", ":", "Rachel", ":", "Audrey", ",", "I", "love", "you", ".", "Audrey", "(", "2", "yrs", "old", ")", ":", "I", "no", "love", "you", "!", "Rachel", ":", "Well", ",", "that", "makes", "me", "sad", ".", "Audrey", ":", "Cry", "!", "Cry", "like", "a", "baby", "cr", "…"], "ner_tags": [0, 0, 0, 0, 9, 0, 9, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "Ubermatik", "Anti", "fascist", "raccoons", "are", "a", "thing", "I", "can", "dig", "👌"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "jellombooty", "4", ":", "my", "heart", "is", "beyond", "happy", "right", "now"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "CarolSankar", ":", "“", "The", "Confidence", "Factor", "for", "Women", ":", "Equalpay", "is", "important", ",", "especially", "for", "girls", "”", "https://t.co/MfkU0QLHs0", ".", "@", "girlsrockclt"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["RT", "@", "CarolSankar", ":", "“", "The", "Confidence", "Factor", "for"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Women", ":"], "ner_tags": [0, 0]}
+{"tokens": ["Equalpay", "is", "important", ",", "especially", "for"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["girls", "”", "https://t.co/MfkU0QLHs0", ".", "@", "girlsrockclt"], "ner_tags": [0, 0, 0, 0, 0, 0]}
 {"tokens": ["Be", "someone", "who", "makes", "time", "for", "a", "new", "goal", "even", "though", "the", "last", "1", ",", "2", ",", "and", "or", "3", "rd", "1", "fell", "through", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "MizaninMagic", "Since", "you", "weren", "'", "t", "looking", ".", "😊"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Don", "'", "t", "judge", "a", "tea", "by", "its", "packaging", "tea", "https://t.co/s5cD7cFXF2"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Don", "'", "t", "judge", "a", "tea", "by", "its", "packaging"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["tea", "https://t.co/s5cD7cFXF2"], "ner_tags": [0, 0]}
 {"tokens": ["@", "rcava", "only", "if", "his", "$", "13", "MM", "is", "holding", "up", "FO", "from", "spending", "on", "bullpen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["LRT", "why", "is", "nobody", "talking", "about", "Prompto", "'", "s", "official", "Roen", "belt", "?", "https://t.co/mUsYf1AVR3"], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 11, 12, 0, 0]}
 {"tokens": ["RT", "@", "itslifethought", ":", "Before", "you", "pray", ",", "believe", ".", "Before", "you", "speak", ",", "listen", ".", "Before", "you", "spend", ",", "earn", ".", "Before", "you", "quit", ",", "try", ".", "Before", "you", "die", ",", "live", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
@@ -745,30 +759,38 @@
 {"tokens": ["@", "Calfreezy", "how", "the", "act", "on", "tinder", "vs", "how", "they", "are", "in", "real", "life"], "ner_tags": [0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Devonport", ":", "-", "the", "current", "temp", "is", "23", ".", "0", "°", "C", "|", "wind", "speed", "0", ".", "0", "km", "/", "h", "|", "gusting", "0", ".", "0", "km", "/", "h", "|", "rain", "today", "0", ".", "0", "mm", "|", "https://t.co/L8Xwxd2izS"], "ner_tags": [7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "FANGIRLOVERLOAD", "but", "I", "do", "😄", "once", "they", "'", "re", "in", "stock", "online", ".", ".", ".", "I", "'", "ll", "DM", "you", "😎", "you", "DESERVE", "a", "Clarke", "as", "a", "token", "for", "being", "a", "sweetheart", "😊", "💕"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Kelli", "'", "s", "Cardio", "Kickboxing", "Workout", "-", "Max", "Calorie", "Burn", "Workout", "with", "no", "Equipment", "fitnessblender", "https://t.co/df66JQrqeM"], "ner_tags": [3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 1, 0]}
-{"tokens": ["28", "InformationSecurity", "Resources", "Some", "Information", "Security", "Leaders", "Cry", "Out", "About", ".", "Please", "Retweet", "https://t.co/BCPt9V63op"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kelli", "'", "s", "Cardio", "Kickboxing", "Workout", "-", "Max", "Calorie", "Burn", "Workout", "with", "no", "Equipment"], "ner_tags": [3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]}
+{"tokens": ["fitnessblender", "https://t.co/df66JQrqeM"], "ner_tags": [1, 0]}
+{"tokens": ["28"], "ner_tags": [0]}
+{"tokens": ["InformationSecurity", "Resources", "Some", "Information", "Security", "Leaders", "Cry", "Out", "About", ".", "Please", "Retweet", "https://t.co/BCPt9V63op"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["This", "kids", "will", "love", "making", "this", "erupting", "volcano", "https://t.co/AThemYUuUf", "https://t.co/g3PR3PC0Ea"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "glofuI", ":", "Some", "people", "will", "have", "to", "learn", "how", "to", "appreciate", "you", "by", "losing", "you", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "AlicesdrThe", "@", "CuriousCatMe", "KKKKKKKKKK", "vc", "me", "ama", ",", "eu", "te", "aviso", "qnd", "eu", "for", "fzr", "pra", "vc", "entrar"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "angryblackhoemo", ":", "But", "let", "'", "s", "go", "along", "w", "/", "the", "idea", "that", "sex", "is", "immoral", "and", "that", "could", "be", "a", "cause", "for", "higher", "HIV", "diagnoses", "among", "Black", "Gay", "…"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "BeautyOfAnAries", ":", "What", "my", "mom", "sent", "me", ".", "Pass", "it", "along", ".", "🙏", "https://t.co/5mKW2mdAsO"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["iTECH", "2", "technology", "Bots", "_", "alive", "kit", "imbues", "toy", "robots", "with", "charming", ",", "lifelike", "AI", ".", ".", ".", "https://t.co/AUQRSUZqy6"], "ner_tags": [0, 0, 0, 11, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["iTECH", "2"], "ner_tags": [0, 0]}
+{"tokens": ["technology", "Bots", "_", "alive", "kit", "imbues", "toy", "robots", "with", "charming", ",", "lifelike", "AI", ".", ".", ".", "https://t.co/AUQRSUZqy6"], "ner_tags": [0, 11, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "MissMcCleary", ":", "Am", "I", "the", "only", "one", "that", "gets", "like", "re-angry", "?", "If", "I", "ever", "talk", "about", "anything", "that", "'", "s", "ever", "pissed", "me", "off", "I", "get", "pissed", "off", "all", "o", "…"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["corvette", "auction", "2017", "Chevrolet", "Corvette", "MSRP", "$", "102520", "Grand", "Sport", "3", "LT", "GPS", "Leather", "Torch", "Red", "New", "Navigation", "…", "https://t.co/K9TZaaLa7k"], "ner_tags": [11, 0, 11, 12, 12, 0, 0, 0, 11, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["corvette"], "ner_tags": [11]}
+{"tokens": ["auction", "2017", "Chevrolet", "Corvette", "MSRP", "$", "102520", "Grand", "Sport", "3", "LT", "GPS", "Leather", "Torch", "Red", "New", "Navigation", "…", "https://t.co/K9TZaaLa7k"], "ner_tags": [0, 11, 12, 12, 0, 0, 0, 11, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "NicholasPegg", ":", "One", "of", "the", "Doctor", "’", "s", "finest", "moments", "-", "from", "an", "episode", "shown", "40", "years", "ago", "today", ".", "Fancy", "that", ".", "https://t.co/neU9Et3d0B"], "ner_tags": [0, 0, 9, 0, 0, 0, 9, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "Mediaite", ":", "Minnesota", "Governor", "Announces", "He", "’", "s", "Been", "Diagnosed", "with", "Prostate", "Cancer", "https://t.co/cik5GuAd8d", "(", "VIDEO", ")", "https://t.co/ji4KSkv62m"], "ner_tags": [0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "issafeminist", ":", "he", "was", "choked", "up", ",", "and", "sincere", ".", "malachai", "parker", "cared", "about", "bonnie", "bennett", "and", "no", "one", "can", "tell", "me", "otherwise", ".", "https://t.co/…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 0, 0, 9, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Because", ":", "Why", "the", "hell", "not", ".", "https://t.co/bLckZfTX8g"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Can", "we", "talk", "about", "how", "bap", "are", "1", "on", "a", "list", "full", "of", "rock", "music", ";", ";", ";", "only", "bap", "could", "do", "this", "&", "gt", ";", ".", "&", "lt", ";", "❤", "https://t.co/Y4ZL0cYp2V"], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Can", "we", "talk", "about", "how", "bap", "are"], "ner_tags": [0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["1", "on", "a", "list", "full", "of", "rock", "music", ";", ";", ";", "only", "bap", "could", "do", "this", "&", "gt", ";", ".", "&", "lt", ";", "❤", "https://t.co/Y4ZL0cYp2V"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "TPM", "Stop", "whining", "a-hole", ".", "https://t.co/138JaBHtzg"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "RevAaronMarquis", "Based", "off", "ELR", ",", "I", "assume", "you", "smoke", "?", "If", "so", ",", "are", "you", "one", "of", "the", "few", "RT", "employees", "who", "do", "?"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
 {"tokens": ["It", "'", "s", "January", "25", ",", "2017", "at", "07", ":", "00", "AM", ",", "good", "morning", "people", "!", "!"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "FinBergin", "Exactly", ",", "you", "'", "re", "not", "in", "the", "wrong", "here"], "ner_tags": [0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "timkaine", "help", "us", "please", ".", ".", "m", "save", "us", "from", "him", "."], "ner_tags": [0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "hollydollyrazzy", "u", "can", "always", "pitch", "a", "tent", "in", "some", "swampland", "!"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "TheCWSupergirl", ":", "Roulette", "returns", ".", ".", ".", "Supergirl", "https://t.co/9tQ6nuttJK"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["RT", "@", "TheCWSupergirl", ":", "Roulette", "returns", ".", ".", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Supergirl", "https://t.co/9tQ6nuttJK"], "ner_tags": [0, 0]}
 {"tokens": ["Moving", "your", "work", "week", "along", "to", "the", "weekend", "with", "a", "little", "Margarita", "Madness", "and", "our", "fantastic", "Shrimp", "Feat", ".", "Join", "us", ".", ".", ".", "https://t.co/GHZa0nHAqp"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "BadlandsNPS", ":", "Presently", "we", "have", "nationwide", "around", "10", "%", "of", "their", "historic", "population", ".", "ParkScience", "bighorns", "https://t.co/w0z8oJG95m"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0]}
+{"tokens": ["RT", "@", "BadlandsNPS", ":", "Presently", "we", "have", "nationwide", "around", "10", "%", "of", "their", "historic", "population", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["ParkScience"], "ner_tags": [3]}
+{"tokens": ["bighorns", "https://t.co/w0z8oJG95m"], "ner_tags": [0, 0]}
 {"tokens": ["@", "fayebanogon", "ANO", "TO", "MAY", "TRABAHO", "KA", "NA", "BA"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["I", "'", "m", "just", "ready", "to", "go", "home", "&", "amp", ";", "get", "in", "my", "bed", ".", "Honestly", ".", "Truly", ".", "https://t.co/8aJeCHwUAh"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["https://t.co/5Y1I3P9pZ8"], "ner_tags": [0]}
@@ -781,12 +803,21 @@
 {"tokens": ["Making", "my", "base", "secure", ":", ")", "https://t.co/N3lVSY6tUX"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["This", "how", "females", "should", "react", "when", "they", "found", "out", "the", "nigga", "been", "cheating", "total", "respect", "👏", "https://t.co/uSVwoeZC8B"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "Harry", "_", "Styles", ":", "Glasgow", "7", ".", "10", ".", "15", ".", "https://t.co/oktJP82lDd"], "ner_tags": [0, 0, 9, 10, 10, 0, 7, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["SEO", "Tip", ":", "Google", "considers", "the", "first", "lines", "of", "the", "page", "important", ".", "Put", "menu", ",", "headers", "+", "important", "text", "on", "top", ".", "google"], "ner_tags": [0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11]}
+{"tokens": ["SEO", "Tip", ":", "Google", "considers", "the", "first", "lines", "of", "the", "page", "important", ".", "Put", "menu", ",", "headers", "+", "important", "text", "on", "top", "."], "ner_tags": [0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["google"], "ner_tags": [11]}
 {"tokens": ["RT", "@", "stealthygeek", ":", "I", "don", "'", "t", "remember", "the", "rest", "but", "the", "punchline", "is", "punch", "Nazis", ".", "https://t.co/9FzK5V0UnP"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
-{"tokens": ["teenporn", "images", "More", "@", "https://t.co/qtYi58zYnP", "for", "free", ".", "No", "tricks", ".", "porn", "pornvideo", "gifporn", "porngif", "https://t.co/GWTJ560NIQ"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["teenporn"], "ner_tags": [0]}
+{"tokens": ["images", "More", "@", "https://t.co/qtYi58zYnP", "for", "free", ".", "No", "tricks", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["porn"], "ner_tags": [0]}
+{"tokens": ["pornvideo"], "ner_tags": [0]}
+{"tokens": ["gifporn"], "ner_tags": [0]}
+{"tokens": ["porngif", "https://t.co/GWTJ560NIQ"], "ner_tags": [0, 0]}
 {"tokens": ["Yes", ",", "I", "´", "ve", "changed", ".", "Pain", "does", "that", "to", "people"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "StoutBoyz", ":", "You", "already", "know", "who", "finna", "snitch", "lmaooooo", "https://t.co/Ex7KVN1BuB"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Bangkok", ",", "Thailand", ":", "Land", "of", "Smiles", "-", "Day", "1", "blog", "conozcopablo", "Travel", "https://t.co/qxLmN6lGV4"], "ner_tags": [7, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bangkok", ",", "Thailand", ":", "Land", "of", "Smiles", "-", "Day", "1"], "ner_tags": [7, 0, 7, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["blog"], "ner_tags": [0]}
+{"tokens": ["conozcopablo"], "ner_tags": [0]}
+{"tokens": ["Travel", "https://t.co/qxLmN6lGV4"], "ner_tags": [0, 0]}
 {"tokens": ["Lockheed", "says", "Trump", "pressure", "won", "'", "t", "affect", "F-", "35", "profitability", "-", "https://t.co/qaer0LaaN2"], "ner_tags": [1, 0, 9, 0, 0, 0, 0, 0, 11, 12, 0, 0, 0]}
 {"tokens": ["RT", "@", "brianklaas", ":", "Badlands", "National", "Park", "posted", "a", "basic", "scientific", "fact", "that", "defied", "Trump", ".", "Now", ",", "it", "'", "s", "been", "deleted", ".", "Retweet", "anyway", ".", "https://t.…"], "ner_tags": [0, 0, 9, 0, 7, 8, 8, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Just", "posted", "a", "photo", "@", "Kembar", "Mas", "Utara", "-", "Buahbatu", "https://t.co/u7WQDGcSVW"], "ner_tags": [0, 0, 0, 0, 0, 7, 8, 8, 0, 7, 0]}
@@ -797,22 +828,34 @@
 {"tokens": ["The", "iconic", "\"", "Let", "'", "s", "chat", "later", "\"", "https://t.co/OwRUomNgv0"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "TheVidSpot", ":", "This", "awesome", "invention", "is", "basically", "a", "treadmill", "rock", "climbing", "wall", "https://t.co/rduhyjvMGq"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "lisaag", "923", ":", "Life", "takes", "us", "on", "some", "incredible", "journeys", ".", "At", "times", "we", "feel", "lost", "or", "unsure", "of", "the", "decisions", "we", "…", "https://t.co/0AkmHXq9WG"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["On", "the", "Street", "…", "The", "Fortezza", ",", "Florence", "photos", "https://t.co/8r0AHF8Mff"], "ner_tags": [0, 0, 0, 0, 7, 8, 0, 7, 0, 0]}
+{"tokens": ["On", "the", "Street", "…", "The", "Fortezza", ",", "Florence"], "ner_tags": [0, 0, 0, 0, 7, 8, 0, 7]}
+{"tokens": ["photos", "https://t.co/8r0AHF8Mff"], "ner_tags": [0, 0]}
 {"tokens": ["RT", "@", "zvhirXX", ":", "girls", "please", "bring", "these", "back", ".", "https://t.co/2WGQ1H8w6o"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "KnifingTourney", ":", "The", "Knifing", "Tourney", "2017", "Judges", ".", "https://t.co/0xLPX96NHA"], "ner_tags": [0, 0, 0, 0, 5, 6, 6, 6, 5, 0, 0]}
 {"tokens": ["RT", "@", "TheVidSpot", ":", "This", "awesome", "invention", "is", "basically", "a", "treadmill", "rock", "climbing", "wall", "https://t.co/rduhyjvMGq"], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Someone", "be", "down", "to", "go", "to", "JoJo", "'", "s", "concert", "with", "me"], "ner_tags": [0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "GraysonDolan", ":", "Yeah", "I", "deleted", "the", "first", "version", "of", "that", "tweet", "because", "of", "spilling", "errors"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "DumpTrump", "22", ":", "SpicerFacts", "https://t.co/QgTMuKN7mT"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["RT", "@", "DumpTrump", "22", ":"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["SpicerFacts", "https://t.co/QgTMuKN7mT"], "ner_tags": [0, 0]}
 {"tokens": ["porn", "star", "brandy", "free", "old", "man", "sex", "https://t.co/IzjQGVEnxg"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0]}
 {"tokens": ["Doing", "play", "by", "play", "with", "my", "buddy", "@", "jfradioshow", "for", "the", "Senate", "v", "house", "basketball", "game", ".", "Let", "'", "s", "go", "Senate", "!", "https://t.co/gf0q0vLBV1"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
-{"tokens": ["2017", "-", "01", "-", "25", "01", ":", "00", ":", "11", ".", "530490", "(", "Sensor", ":", "17", "Temp", ":", "17", ".", "000", "Humi", ":", "38", ".", "000", ")", "(", "Sensor", ":", "18", "Temp", ":", "15", ".", "000", "Humi", ":", "37", ".", "000", ")", "(", "Sensor", ":", "27", "Temp", ":", "15", ".", "000", "Humi", ":", "36", ".", "000", ")"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Good", "New", "Nike", "Air", "Jordan", "11", "XI", "Retro", "Low", "Cherry", "Varsity", "Red", "100", "%", "Authentic", "Size", "10", ".", "5", "https://t.co/SnsOc5pEwP", "…", "https://t.co/moOb6H9YD8"], "ner_tags": [0, 0, 11, 12, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["2017", "-", "01", "-", "25", "01", ":", "00", ":", "11", ".", "530490", "(", "Sensor", ":", "17"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Temp", ":", "17", ".", "000"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["Humi", ":", "38", ".", "000", ")", "(", "Sensor", ":", "18"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Temp", ":", "15", ".", "000"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["Humi", ":", "37", ".", "000", ")", "(", "Sensor", ":", "27"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Temp", ":", "15", ".", "000"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["Humi", ":", "36", ".", "000", ")"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Good", "New"], "ner_tags": [0, 0]}
+{"tokens": ["Nike", "Air", "Jordan", "11", "XI"], "ner_tags": [11, 12, 12, 12, 12]}
+{"tokens": ["Retro", "Low", "Cherry", "Varsity", "Red", "100", "%", "Authentic", "Size", "10", ".", "5", "https://t.co/SnsOc5pEwP", "…", "https://t.co/moOb6H9YD8"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "Igbtryden", ":", "“", "@", "edsheeran", ":", "My", "best", "friend", "is", "getting", "married", "today", ".", "Mega", "awesome", "wicked", "cool", ".", "”", "http://t.co/DeqPMdoyoB"], "ner_tags": [0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Man", "Finna", "bring", "me", "a", "🍕", "up", "to", "my", "job", "😎"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "JennaJackson", "16", "kill", "you", "during", "birth", "I", "think", "it", "'", "s", "a", "selfish", "act", "because", "that", "'", "s", "a", "life", "even", "if", "you", "don", "'", "t", "think", "it", "is"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "dazb", "160", ":", "@", "GlennTemp", "@", "adidasanorak", "@", "DeadstockUtopia", "@", "OriginalSoleog", "Indoor", "Super", "at", "the", "moment", ".", "Summer", "wear", "!"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Sacha", "Baron", "Cohen", "turns", "football", "hooligan", "as", "his", "The", "Brothers", ".", ".", ".", "SachaBaronCohen", "https://t.co/j5sX477935", "sachabaroncohen"], "ner_tags": [9, 10, 10, 0, 0, 0, 0, 0, 5, 6, 0, 0, 0, 9, 0, 9]}
+{"tokens": ["Sacha", "Baron", "Cohen", "turns", "football", "hooligan", "as", "his", "The", "Brothers", ".", ".", "."], "ner_tags": [9, 10, 10, 0, 0, 0, 0, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["SachaBaronCohen", "https://t.co/j5sX477935"], "ner_tags": [9, 0]}
+{"tokens": ["sachabaroncohen"], "ner_tags": [9]}
 {"tokens": ["RT", "@", "kaleyrams", ":", "I", "just", "screamed", "\"", "I", "hate", "myself", "\"", "and", "2", "minutes", "later", "I", "hear", "my", "little", "brother", "sliding", "this", "note", "under", "my", "door", "https://t.co/WN…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Do", "not", "blame", "your", "past", ",", "because", "the", "past", "will", "never", "change", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Your", "friends", "and", "associates", "might", "not", "be", "there", "to", "support", "you", ".", ".", ".", "More", "for", "Aquarius", "https://t.co/6R6L36dVnM"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
@@ -831,29 +874,51 @@
 {"tokens": ["frugaliscious", ":", "It", "'", "s", "Arri", "'", "s", "Playtime", "Tv", ":", "how", "to", "start", "The", "Fisher-", "P", ".", ".", ".", "https://t.co/rSiOwfOSWY"], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0]}
 {"tokens": ["naked", "on", "the", "stree", "teen", "male", "mature", "woman", "https://t.co/TlRrNT1wwI"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "ThomasBeautyy", ":", "Do", "you", "get", "assaulted", ",", "murdered", ",", "or", "your", "rights", "taken", "away", "from", "being", "a", "white", "bitch", "with", "a", "big", "mouth", "?", "Yes", "or", "no", "?", "https://…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Astana", "talks", "end", "with", "breakthrough", "To", "resolve", "Syria", "crisis", "-", "https://t.co/pWfNBemi3N", "https://t.co/oc5Rd1EH0z"], "ner_tags": [7, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0]}
+{"tokens": ["Astana", "talks", "end", "with", "breakthrough"], "ner_tags": [7, 0, 0, 0, 0]}
+{"tokens": ["To", "resolve"], "ner_tags": [0, 0]}
+{"tokens": ["Syria", "crisis", "-", "https://t.co/pWfNBemi3N", "https://t.co/oc5Rd1EH0z"], "ner_tags": [7, 0, 0, 0, 0]}
 {"tokens": ["Sweeter", "than", "a", "swishaaa", ",", "mad", "cuz", "im", "cuter", "than", "the", "girl", "thats", "witchyaaa"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["F", "4", "F", "MGWV", "FollowTrick", "TeamFollowBack", "AnotherFollowTrain"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F", "4", "F"], "ner_tags": [0, 0, 0]}
+{"tokens": ["MGWV"], "ner_tags": [0]}
+{"tokens": ["FollowTrick"], "ner_tags": [0]}
+{"tokens": ["TeamFollowBack"], "ner_tags": [0]}
+{"tokens": ["AnotherFollowTrain"], "ner_tags": [0]}
 {"tokens": ["RT", "@", "mcgregor", "_", "ewan", ":", "Was", "going", "on", "Good", "Morning", "Britain", ",", "didn", "'", "t", "realise", "@", "piersmorgan", "was", "host", ".", "Won", "'", "t", "go", "on", "with", "him", "after", "his", "comments", "about", "…"], "ner_tags": [0, 0, 9, 0, 9, 0, 0, 0, 0, 3, 4, 4, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "jellibun", "hmmm", "i", "'", "ll", "prob", "do", "that", "next", "week", "i", "gotta", "secure", "my", "seat", "at", "all", "costs", "👊"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["On", "god", "Darius", "plugs", "unreliable", "asf", "https://t.co/aTJdj52tNv"], "ner_tags": [0, 0, 9, 0, 0, 0, 0]}
-{"tokens": ["The", "Sheep", "poetry", "poem", "writing", "amwriting", "words", "political", "DumpTrump", "https://t.co/Z6dyLcXlWF"], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["The", "Sheep"], "ner_tags": [3, 4]}
+{"tokens": ["poetry"], "ner_tags": [0]}
+{"tokens": ["poem"], "ner_tags": [0]}
+{"tokens": ["writing"], "ner_tags": [0]}
+{"tokens": ["amwriting"], "ner_tags": [0]}
+{"tokens": ["words"], "ner_tags": [0]}
+{"tokens": ["political"], "ner_tags": [0]}
+{"tokens": ["DumpTrump", "https://t.co/Z6dyLcXlWF"], "ner_tags": [0, 0]}
 {"tokens": ["I", "think", "obi", "wan", "Kenobi", "had", "short", "term", "memory", "loss", "when", "he", "forgot", "to", "mention", "that", "Darth", "is", "your", "father", "and", "you", "have", "a", "sister", "@", "HamillHimself"], "ner_tags": [0, 0, 9, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "faerieli", ":", "11", ":", "11", "cake", "!", "!"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["authorconfession", "D", "25", ":", "Favourite", "Inspirational", "Quote", "https://t.co/W5VcDV0KzI"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Retweeting", "for", "@", "BadlandsNPS", ".", "ClimateChange", "is", "real", "!", "TheResistance", "DefyTrump", "TrumpLeaks", "DworkinReport", "…", "https://t.co/1b7qIhtqwH"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Retweeting", "for", "@", "BadlandsNPS", "."], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["ClimateChange", "is", "real", "!"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["TheResistance"], "ner_tags": [5]}
+{"tokens": ["DefyTrump"], "ner_tags": [0]}
+{"tokens": ["TrumpLeaks"], "ner_tags": [0]}
+{"tokens": ["DworkinReport", "…", "https://t.co/1b7qIhtqwH"], "ner_tags": [0, 0, 0]}
 {"tokens": ["https://t.co/vlNer7z5w6"], "ner_tags": [0]}
 {"tokens": ["omg", "this", "song", "makes", "me", "cry", "everytime", "https://t.co/Fm5RszmXHz"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["“", "La", "La", "Land", "”", "received", "14", "Academy", "Award", "nominations", ",", "tying", "the", "record", "set", "by", "the", "films", ".", ".", ".", "https://t.co/ubyjCHIWKD", "by", "CNN", "via", "@", "c", "0", "nvey"], "ner_tags": [0, 3, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["“", "La", "La", "Land", "”", "received", "14", "Academy", "Award", "nominations", ",", "tying", "the", "record", "set", "by", "the", "films", ".", ".", ".", "https://t.co/ubyjCHIWKD", "by"], "ner_tags": [0, 3, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["CNN", "via", "@", "c", "0", "nvey"], "ner_tags": [1, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "MasoodRaw", ":", "Can", "you", "ask", "them", "when", "ramadan", "is", "https://t.co/nIi6LOGkPs"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "WorIdStarComedy", ":", "Everything", "this", "guy", "does", "is", "so", "jokes", "😂", "https://t.co/uhxmybhsYz"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "savmontano", ":", "https://t.co/fDc1nJ7WQ6"], "ner_tags": [0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "miyu", "_", "mon", ":", "Beauty", "comes", "from", "within", ".", "https://t.co/YLE8Yl86YE"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "PandasDaiIy", ":", "me", "after", "studying", "for", "7", "seconds", "https://t.co/bu7aBkIjYj"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Now", "playing", ":", "In", "My", "Bed", "by", "Amy", "Winehouse", "nowplaying", "Listen", "live", ":", "https://t.co/pHXLO1eb4v", "https://t.co/MZNlOyvAJ4"], "ner_tags": [0, 0, 0, 3, 4, 4, 0, 9, 10, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Now", "playing", ":", "In", "My", "Bed", "by", "Amy", "Winehouse"], "ner_tags": [0, 0, 0, 3, 4, 4, 0, 9, 10]}
+{"tokens": ["nowplaying", "Listen", "live", ":", "https://t.co/pHXLO1eb4v", "https://t.co/MZNlOyvAJ4"], "ner_tags": [0, 0, 0, 0, 0, 0]}
 {"tokens": ["Clean", "Sweep", "as", "cathedral", "links", "up", "with", "city", "charity", "https://t.co/5VEIBK228B", "https://t.co/DcwFj8k5XE"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Blog", "Technology", "to", "review", "the", "electronic", "devices", "and", "accessories", "and", "other", ".", "https://t.co/i5waTFD1Zp", "|", "January", "25", ",", "2017", "at", "03", ":", "00", "AM"], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "saykomala", ":", "Good", "morninggg", "~", "MissUniverse", "Indonesia"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 9, 7]}
+{"tokens": ["RT", "@", "saykomala", ":", "Good", "morninggg", "~"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["MissUniverse"], "ner_tags": [9]}
+{"tokens": ["Indonesia"], "ner_tags": [7]}
 {"tokens": ["RT", "@", "Lawrence", ":", "Huge", "breakthrough", "!", "@", "nytimes", "calling", "a", "lie", "a", "lie", ".", "In", "front", "page", "headline", ".", "Should", "'", "ve", "done", "it", "every", "day", "of", "campaign", ".", "https://t.c…"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["this", "1492", "trump", "adventure", "might", "not", "work", "for", "trump", "and", "this", "time", "he", "cannot", "blame", "soros", ".", "!", "!", "!", "the", "wall", "in", "mexico", ".", ".", ".", "https://t.co/D9YOoLLuRq"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0]}
 {"tokens": ["Illuminatiam", ":", "The", "First", "Testament", "Of", "The", "Illuminati", "https://t.co/DzwRWGm6fB"], "ner_tags": [3, 4, 4, 4, 4, 4, 4, 4, 0]}
@@ -861,11 +926,25 @@
 {"tokens": ["RT", "@", "bangooan", "_", "aek", ":", "https://t.co/hsoMy2Hamk"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Probably", "one", "of", "the", "few", "people", "who", "have", "always", "known", "what", "I", "am", "capable", "of", "💪", "💯"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "meoyuasa", ":", "Love", "&", "amp", ";", "kindness", "move", "mountains", ".", "https://t.co/cu6s6dfpop"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["I", "'", "ve", "just", "voted", "for", "@", "fifthharmony", "to", "win", "BestFans", "2017", "!", "5", "HBestFans", "https://t.co/fxFNhnvZ4t", "😊"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "5", "HonTour", ":", "WorkFromHome", "BestMusicVideo", "iHeartAwards", "https://t.co/GWdK7L7RtR"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "5", "HonTour", ":", "WorkFromHome", "BestMusicVideo", "iHeartAwards", "https://t.co/GWdK7L7RtR"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "5", "HonTour", ":", "WorkFromHome", "BestMusicVideo", "iHeartAwards", "https://t.co/GWdK7L7RtR"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "5", "HonTour", ":", "WorkFromHome", "BestMusicVideo", "iHeartAwards", "https://t.co/GWdK7L7RtR"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "'", "ve", "just", "voted", "for", "@", "fifthharmony", "to", "win"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["BestFans", "2017", "!"], "ner_tags": [0, 0, 0]}
+{"tokens": ["5", "HBestFans", "https://t.co/fxFNhnvZ4t", "😊"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["RT", "@", "5", "HonTour", ":"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["WorkFromHome"], "ner_tags": [0]}
+{"tokens": ["BestMusicVideo"], "ner_tags": [0]}
+{"tokens": ["iHeartAwards", "https://t.co/GWdK7L7RtR"], "ner_tags": [0, 0]}
+{"tokens": ["RT", "@", "5", "HonTour", ":"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["WorkFromHome"], "ner_tags": [0]}
+{"tokens": ["BestMusicVideo"], "ner_tags": [0]}
+{"tokens": ["iHeartAwards", "https://t.co/GWdK7L7RtR"], "ner_tags": [0, 0]}
+{"tokens": ["RT", "@", "5", "HonTour", ":"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["WorkFromHome"], "ner_tags": [0]}
+{"tokens": ["BestMusicVideo"], "ner_tags": [0]}
+{"tokens": ["iHeartAwards", "https://t.co/GWdK7L7RtR"], "ner_tags": [0, 0]}
+{"tokens": ["RT", "@", "5", "HonTour", ":"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["WorkFromHome"], "ner_tags": [0]}
+{"tokens": ["BestMusicVideo"], "ner_tags": [0]}
+{"tokens": ["iHeartAwards", "https://t.co/GWdK7L7RtR"], "ner_tags": [0, 0]}
 {"tokens": ["RT", "@", "Juvens", "90", ":", "If", "you", "always", "date", "people", "that", "aren", "'", "t", "shit", ",", "you", "'", "re", "attracted", "to", "ain", "'", "t", "shit", "people", ",", "cause", "you", "ain", "'", "t", "shit", "either", ".", ".", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "coppolanat", ":", "Sana", "tu", "❤", "Reconecta", "con", "el", "Amor", ".", "The", "Angels", "are", "Listening", ":", "Snatam", "Kaur", "sings", "Suṉi-ai", "with", "Ajeet", "Kaur", "at", ".", ".", ".", "https://t.co/…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 4, 0, 9, 10, 0, 3, 0, 9, 10, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "LCGila", "07", "@", "CuriousCatMe", "kkkkkkkkkkkkkkk", ",", "pqp"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
@@ -878,26 +957,37 @@
 {"tokens": ["Leaves", "!", "https://t.co/RaRNJ6cu9a"], "ner_tags": [7, 0, 0]}
 {"tokens": ["RT", "@", "nochillthalia", ":", "1", ".", "so", "lets", "start", "w", "this", "iconic", "vine", "https://t.co/GfaKNo5NDS"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "JiovanniVargas", "she", "might", "just", "have", "to", ".", "I", "swear", "if", "she", "denies", "it", "when", "I", "confront", "her", "Ima", "throw", "a", "punch", "😂", "😂"], "ner_tags": [0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Check", "out", "\"", "Yo", "soy", "Moana", "(", "Canto", "ancestral", ")", "\"", "on", "Smule", ":", "https://t.co/mCxofiCKqd", "SingKaraoke"], "ner_tags": [0, 0, 0, 3, 4, 4, 4, 4, 4, 4, 0, 0, 11, 0, 0, 0]}
-{"tokens": ["RT", "@", "kartikaaw", "32", ":", "Tweet", "trus", "for", "Kezia", "Warouw", "MissUniverse", "Indonesia"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 9, 7]}
+{"tokens": ["Check", "out", "\"", "Yo", "soy", "Moana", "(", "Canto", "ancestral", ")", "\"", "on"], "ner_tags": [0, 0, 0, 3, 4, 4, 4, 4, 4, 4, 0, 0]}
+{"tokens": ["Smule", ":", "https://t.co/mCxofiCKqd"], "ner_tags": [11, 0, 0]}
+{"tokens": ["SingKaraoke"], "ner_tags": [0]}
+{"tokens": ["RT", "@", "kartikaaw", "32", ":", "Tweet", "trus", "for", "Kezia", "Warouw"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 9, 10]}
+{"tokens": ["MissUniverse"], "ner_tags": [9]}
+{"tokens": ["Indonesia"], "ner_tags": [7]}
 {"tokens": ["RT", "@", "ltsFRIENDSposts", ":", "Literally", "me", ":", "https://t.co/s58wlbemVP"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "NathanZed", ":", "he", "was", "the", "only", "black", "barber", "at", "the", "shop", "here", ".", "I", "'", "m", "going", "to", "have", "to", "put", "my", "faith", "in", "a", "caucasian", "man", ".", "First", "the", "country", ",", "now", "…"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["The", "time", "is", "January", "25", ",", "2017", "at", "12", ":", "00", "AM", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "Prettyboy", "_", "flako", ":", "Who", "do", "yall", "think", "would", "win", "in", "a", "fight", "?", "?"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Seoul-", "Incheon", ",", "South", "Korea", ":", "Old", "Meets", "New", "Part", "2", "blog", "Featured", "conozcopablo", "Travel", "https://t.co/3OzEAUYKjx"], "ner_tags": [7, 8, 8, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Seoul-", "Incheon", ",", "South", "Korea", ":", "Old", "Meets", "New", "Part", "2"], "ner_tags": [7, 8, 8, 8, 8, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["blog"], "ner_tags": [0]}
+{"tokens": ["Featured"], "ner_tags": [0]}
+{"tokens": ["conozcopablo"], "ner_tags": [0]}
+{"tokens": ["Travel", "https://t.co/3OzEAUYKjx"], "ner_tags": [0, 0]}
 {"tokens": ["RT", "@", "MartinBelam", ":", "As", "long", "as", "you", "live", "you", "'", "ll", "never", "see", "a", "photograph", "of", "7", "women", "signing", "legislation", "about", "what", "men", "can", "do", "with", "their", "r", "…"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "IngrahamAngle", ":", "On", "my", "show", "today", "@", "seanhannity", "&", "amp", ";", "I", "warn", "@", "realDonaldTrump", "abt", "staff", "already", "leaking", "to", "media", ".", "https://t.co/RjBWzduYIP"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "MaryKayCabot", "@", "TheKennyRoda", "@", "clevelanddotcom", "https://t.co/zSacM2iqb7"], "ner_tags": [0, 9, 0, 9, 0, 1, 0]}
-{"tokens": ["The", "Line", "That", "Separates", "You", "From", "Massive", "Success", "https://t.co/hEWYC04cHw", "https://t.co/zh9Ql6P1Ky"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["The", "Line", "That", "Separates", "You", "From", "Massive"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Success", "https://t.co/hEWYC04cHw", "https://t.co/zh9Ql6P1Ky"], "ner_tags": [0, 0, 0]}
 {"tokens": ["I", "'", "ve", "missed", "you", "darling", ".", ".", ".", "@", "tableFIVE", "08", "https://t.co/pYrsXCEgZy"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "glowkit", ":", "followers", "will", "be", "chosen", "today", "+", "one", "instagram", "follower", "so", "4", "winners", "in", "total", "!", "!", ")"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["LUB", "expires", "Wind", "Advisory", "till", "6", ":", "00", "PM", "CST", "https://t.co/x5da9yigjY"], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Judge", "rules", "Tamara", "Lovett", "guilty", "of", "criminal", "negligence", "causing", "her", ".", ".", ".", "DiscoveryRidge", "https://t.co/ro0DxQvUL0"], "ner_tags": [0, 0, 9, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Judge", "rules", "Tamara", "Lovett", "guilty", "of", "criminal", "negligence", "causing", "her", ".", ".", "."], "ner_tags": [0, 0, 9, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["DiscoveryRidge", "https://t.co/ro0DxQvUL0"], "ner_tags": [0, 0]}
 {"tokens": ["@", "BeatrizDjee", "MAAX", "QUE", "BOM"], "ner_tags": [0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "FillWerrell", ":", "I", "shouldn", "'", "t", "have", "laughed", "so", "hard", "https://t.co/NxaARpReEV"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "wvucobe", ":", "Good", "luck", "to", "@", "CoachHuggs", "and", "@", "WVUhoops", "tonight", "!", "Don", "'", "t", "forget", "it", "'", "s", "Gold", "Rush", "and", "the", "pregame", "light", "show", "!", "…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 3, 4, 4, 4, 0, 0]}
 {"tokens": ["@", "Lance", "210", "I", "love", "that", "prank", "where", "you", "squirted", "the", "water", "on", "that", "one", "guys", "shoe", "and", "he", "slipped", "😂", "😂", "!", "What", "happened", "after", "?"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Dieting", "as", "demonstrated", "by", "fitness", "bloggers", "vs", ".", "dieting", "IRL", "NHsmc", "https://t.co/2oz6u8aufr"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dieting", "as", "demonstrated", "by", "fitness", "bloggers", "vs", ".", "dieting", "IRL"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["NHsmc", "https://t.co/2oz6u8aufr"], "ner_tags": [0, 0]}
 {"tokens": ["@", "tirckt", "you", "made", "Me", "pick", "up", "Super", "gals", "so", "I", "'", "ll", "trust", "you", "On", "this", "!"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["My", "Lyft", "is", "lit", "!"], "ner_tags": [0, 11, 0, 0, 0]}
 {"tokens": ["@", "sallykohn", "you", "are", "a", "special", "kind", "of", "stupid", "!"], "ner_tags": [0, 9, 0, 0, 0, 0, 0, 0, 0, 0]}
@@ -908,13 +998,15 @@
 {"tokens": ["kina", "sex", "anal", "https://t.co/iD26UoP7tl"], "ner_tags": [0, 0, 0, 0]}
 {"tokens": ["Don", "'", "t", "worry", "sissy", ",", "I", "made", "it", "📍", "https://t.co/Fm9WB5T6IV"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["More", "than", "500", "Smokers", "Quit", "by", "Hypnosis", "!", "https://t.co/hw5pved8nS", "25", ",", "2017", "at", "09", ":", "00", "AM", "https://t.co/9fR8CrvBLi"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "MaikoKitamura", ":", "The", "way", "she", "stares", "at", "him", "❤", "️", "FOOLISH", "LOVE", "PREMIERE", "NIGHT", "LLRelationshipGoals", "https://t.co/VrbnKAvcVy"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["RT", "@", "MaikoKitamura", ":", "The", "way", "she", "stares", "at", "him", "❤", "️", "FOOLISH", "LOVE", "PREMIERE", "NIGHT"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0]}
+{"tokens": ["LLRelationshipGoals", "https://t.co/VrbnKAvcVy"], "ner_tags": [0, 0]}
 {"tokens": ["Lowongan", "PT", "Citilink", "Indonesia", "-", "Recruitment", "ForFresh", "Graduate", "Management", "Trainee", "Citilink", "January", "2017", ".", ".", ".", "https://t.co/GIGQnl4qTY"], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "GirIfession", ":", "Me", "when", "I", "get", "my", "own", "house", "https://t.co/WeamavpIMQ"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "minsugapics", ":", "https://t.co/50Q6D4GKIJ"], "ner_tags": [0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "MatsMats", "94", ":", "@", "rolling", "_", "2", "@", "NatalieGBorden", "that", "is", "Bannon", "'", "s", "goal", ".", "https://t.co/OomsNdQocf"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 9, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "kimischilling", "there", "'", "s", "always", "something", "https://t.co/rNGTYQSDUY"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Student", "Guest", "Program", "Bothell", "https://t.co/BrqvFFslAz"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["Student", "Guest", "Program"], "ner_tags": [0, 0, 0]}
+{"tokens": ["Bothell", "https://t.co/BrqvFFslAz"], "ner_tags": [0, 0]}
 {"tokens": ["I", "see", "why", "its", "rope", "gang", "now", "😂", "big", "dick", "clique", "@", "onsomeshit"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "usedgov", "Do", "it", "while", "you", "can", "!", "Who", "knows", "what", "will", "happen", "in", "the", "coming", "year", "(", "s", ")", ".", "😒", "😔"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "TwoBlindBros", "Fantastic", "piece", "on", "@", "NBCNightlyNews", "tonight", "!", "!", "!", "Love", "you", "guys", "!", "!"], "ner_tags": [0, 5, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
@@ -922,7 +1014,10 @@
 {"tokens": ["RT", "@", "_", "ttgm", ":", "Don", "'", "t", "ever", "think", "you", "got", "it", "like", "that", "with", "me", "cause", "the", "moment", "you", "do", "I", "'", "ll", "show", "you", "that", "you", "ain", "'", "t", "have", "it", "like", "you", "think", "you", "do", "…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "WarGit", "@", "northumbriana", "If", "Ney", "had", "appeared", "in", "Marshals", "uniform", "he", "would", "have", "been", "degraded", ".", "All", "his", "stars", "and", "medals", "torn", "off", "into", "the", "mud"], "ner_tags": [0, 0, 0, 0, 0, 9, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["DELL", "Inspiron", "17", "R", "5721", "Core", "i", "5", "-", "3317", "U", "1", ".", "7", "GHz", "6", "Gb", "750", "Gb", "DVDRW", "17", ".", "3", "\"", "Laptop", "https://t.co/SvPm1Qm5dg", "https://t.co/eG2GWQ5Jv7"], "ner_tags": [11, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0]}
-{"tokens": ["Get", "sexy", "girls", "in", "the", "palm", "of", "hand", "!", "Video", "chat", "live", "on", "your", "mobile", "https://t.co/7pKPP5Izb9", "erotic", "babes", "camgirls", "https://t.co/GoTHB4GSor"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Get", "sexy", "girls", "in", "the", "palm", "of", "hand", "!", "Video", "chat", "live", "on", "your", "mobile", "https://t.co/7pKPP5Izb9"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["erotic"], "ner_tags": [0]}
+{"tokens": ["babes"], "ner_tags": [0]}
+{"tokens": ["camgirls", "https://t.co/GoTHB4GSor"], "ner_tags": [0, 0]}
 {"tokens": ["It", "is", "not", "a", "problem", "for", "her", "to", "bend", "over", "spreading", "her", "ass", "and", "slowly", "finger", "her", "tight", "asshole", ".", "…", "https://t.co/8bWcg5oMOK"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "PrisonPlanet", ":", "Leftists", "love", "women", "in", "positions", "of", "power", ".", "Look", "at", "all", "the", "white", "powder", "candy", "they", "'", "re", "sending", "to", "Kellyanne", ".", "https://t.c…"], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0]}
 {"tokens": ["RT", "@", "HalfOnionInABag", ":", "What", "if", "this", "account", "that", "is", "simply", "half", "an", "onion", "in", "a", "Ziploc", "bag", "ended", "up", "with", "more", "followers", "than", "…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0]}
@@ -932,17 +1027,23 @@
 {"tokens": ["RT", "@", "suav", "1", "be", ":", "https://t.co/rbdLUAeHK5"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "HotFreestyle", ":", "4", "more", "days", "till", "Migos", "drop", "their", "album", "\"", "Culture", "\"", "https://t.co/Z0PxA8gtFw"], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 3, 0, 0]}
 {"tokens": ["RT", "@", "RelatableQuote", ":", "Oh", "wow", "I", "'", "m", "so", "surprised", "https://t.co/vcDyRfsie6"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["@", "VroniquePersic", "1", "@", "horttim", "@", "serina", "_", "sgill", "@", "priscillaNK", "27", "@", "janet", "23", "hbk", "@", "AnaProgl", "1", "@", "Marujk", "1", "@", "Stacy", "_", "WahlLove", "@", "DonnieWahlberg", "twug"], "ner_tags": [0, 0, 0, 0, 0, 0, 9, 10, 10, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 10, 0, 9, 0]}
+{"tokens": ["@", "VroniquePersic", "1", "@", "horttim", "@", "serina", "_", "sgill", "@", "priscillaNK", "27", "@", "janet", "23", "hbk", "@", "AnaProgl", "1", "@", "Marujk", "1", "@", "Stacy", "_", "WahlLove", "@", "DonnieWahlberg"], "ner_tags": [0, 0, 0, 0, 0, 0, 9, 10, 10, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 10, 0, 9]}
+{"tokens": ["twug"], "ner_tags": [0]}
 {"tokens": ["RT", "@", "ThirtySecFights", ":", "Dude", "gets", "his", "ass", "beat", "for", "bullying", "boys", "nephew", "https://t.co/QtU8e6s6SK"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["UG", "!", "COMEDY", "SHOW", "!", "at", "No", "Fun", "Bar", "Starts", "in", "1", "Hour-https", ":", "/", "/", "t", ".", "co", "/", "YpSUsaWrPF"], "ner_tags": [0, 0, 0, 0, 0, 0, 7, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "invaIidate", ":", "Respect", "yourself", "enough", "to", "walk", "away", "from", "anything", "that", "no", "longer", "serves", "you", ",", "grows", "you", ",", "or", "makes", "you", "happy", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "CraigRBrittain", ":", "I", "would", "rather", "deal", "with", "robots", "/", "computers", "than", "leftists", ",", "because", "I", "know", "how", "to", "deal", "with", "the", "step-by-step", "programming", "o", "…"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Local", "/", "Online", "Services", ":", "Small", "Business", "Go", "To", ":", "https://t.co/ZZqjTDgLcC", "Advertise", "Anything", "-", "Free", ".", "PromoteBusiness"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["Local", "/", "Online", "Services", ":", "Small", "Business", "Go", "To", ":", "https://t.co/ZZqjTDgLcC", "Advertise", "Anything", "-", "Free", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0]}
+{"tokens": ["PromoteBusiness"], "ner_tags": [0]}
 {"tokens": ["RT", "@", "WSHHVlDS", ":", "IM", "SCREAMINGGGGGGGGGGGGG", "https://t.co/PFeXWWcYxY"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["You", "might", "not", "understand", "why", ",", "but", "it", "seems", "as", "if", "people", "are", "ha", ".", ".", ".", "More", "for", "Libra", "https://t.co/ewI2W6UqR1"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "soompi", ":", "ICYMI-", "Lee", "Joon", "Gi", "’", "s", "Agency", "Responds", "To", "Rumors", "Of", "The", "Actor", "Dating", "IU", "https://t.co/cy7Cir3rhq", "https://t.co/6jGVOyQAte"], "ner_tags": [0, 0, 9, 0, 0, 9, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0]}
 {"tokens": ["when", "you", "need", "money", "and", "you", "remember", "about", "that", "unopened", "bottle", "of", "gaviscon", "you", "'", "ve", "got", "in", "your", "cupboard", "x", "https://t.co/Du7WbfdX6i"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["get", "$", "20", "discount", "when", "you", "book", "in", "airbnb", ",", "use", "this", "link", "https://t.co/R0DyOpor86", "airbnb", "discount", "coupon", "code", "https://t.co/tQdCewRvIW"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["get", "$", "20", "discount", "when", "you", "book", "in", "airbnb", ",", "use", "this", "link", "https://t.co/R0DyOpor86"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["airbnb"], "ner_tags": [1]}
+{"tokens": ["discount"], "ner_tags": [0]}
+{"tokens": ["coupon"], "ner_tags": [0]}
+{"tokens": ["code", "https://t.co/tQdCewRvIW"], "ner_tags": [0, 0]}
 {"tokens": ["RT", "@", "baabyylex", ":", "rape", ",", "incest", ",", "financial", "issues", ",", "health", "issues", ",", "the", "millions", "of", "children", "that", "are", "already", "put", "up", "for", "adoption", "that", "d", "…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "HugotDre", ":", "I", "hate", "people", "who", "pretend", "to", "be", "my", "friend", "."], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "TheFunnyTeens", ":", "best", "friend", "starter", "pack", "https://t.co/aUQPlTTuP6"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
@@ -950,18 +1051,24 @@
 {"tokens": ["RT", "@", "beatfaceleah", ":", "I", "was", "bored", "earlier", "so", "I", "did", "this", "✨", "https://t.co/XD3uZNGQTN"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "briankoppelman", ":", "Yeah", ",", "man", ".", "@", "jaketapper", "is", "handling", "this", "as", "well", "and", "professionally", "and", "even", "heroically", "as", "one", "can", ".", "Good", "on", "you", ",", "Jak", "…"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0]}
 {"tokens": ["RT", "@", "30", "secondrock", ":", "The", "Black", "Keys", "-", "\"", "Lonely", "Boy", "\"", "https://t.co/k1hxm2U1Mq"], "ner_tags": [0, 0, 0, 0, 0, 5, 6, 6, 0, 0, 3, 4, 0, 0]}
-{"tokens": ["9", "Resources", "For", "Crafting", "The", "Perfect", "Outreach", "Email", "by", "@", "stephenjeske", "via", "@", "quora", "https://t.co/c66x410IUr", "emailmarketing", "startup"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 11, 0, 0, 0]}
-{"tokens": ["RT", "@", "Kragar", "_", "LGF", ":", "“", "In", "times", "of", "universal", "deceit", ",", "telling", "the", "truth", "is", "a", "revolutionary", "act", "”", ".", "ResistTrump", "https://t.co/iRzL9NT0Ru"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["9", "Resources", "For", "Crafting", "The", "Perfect", "Outreach", "Email", "by", "@", "stephenjeske", "via", "@", "quora", "https://t.co/c66x410IUr"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 11, 0]}
+{"tokens": ["emailmarketing"], "ner_tags": [0]}
+{"tokens": ["startup"], "ner_tags": [0]}
+{"tokens": ["RT", "@", "Kragar", "_", "LGF", ":", "“", "In", "times", "of", "universal", "deceit", ",", "telling", "the", "truth", "is", "a", "revolutionary", "act", "”", "."], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["ResistTrump", "https://t.co/iRzL9NT0Ru"], "ner_tags": [0, 0]}
 {"tokens": ["RT", "@", "JustDidItSport", ":", "When", "coach", "cancels", "practice", "https://t.co/02yy2CFmDR"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "gisiez", "Yes", ",", "I", "will", "try", ".", ".", "i", "'", "m", "looking", "for", "Linux", "OS", "have", "a", "look", "good", ",", "unlike", "the", "Ubuntu", "it", "'", "s", "primitive", ".", ".", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 12, 0, 0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "maxinejiji", ":", "Don", "'", "t", "keep", "calm", ".", "You", "'", "re", "in", "my", "inappropriate", "thoughts", "."], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "jzaffos", ":", "Hey", "federal", "scientists", ":", "@", "highcountrynews", "is", "collecting", "reports", "of", "interference", "or", "intimidation", ".", "Confidential", "form", ":", "https://t.c…"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Don", "'", "t", "get", "kettled", ".", "Made", "up", "charges", "will", "follow", ".", "https://t.co/b8lsMKIHda"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "September", "_", "babyy", ":", "Five", "Guys", "wit", "ah", "quickness", "https://t.co/wBD20JsiC8"], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "er", "1", "cmau", ":", "Catalonia", "'", "s", "foreign", "minister", "@", "raulromeva", ":", "\"", "legally", "voting", "to", "chose", "one", "'", "s", "future", "is", "rooted", "in", "European", "practice", "\""], "ner_tags": [0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["RT", "@", "er", "1", "cmau", ":"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Catalonia", "'", "s", "foreign", "minister", "@", "raulromeva", ":", "\"", "legally", "voting", "to", "chose", "one", "'", "s", "future", "is", "rooted", "in", "European", "practice", "\""], "ner_tags": [7, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "akinghes", "siiim", "tipo", ",", "eu", "to", "kkkk"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["hairless", "teen", "https://t.co/fhg1VxeLF2"], "ner_tags": [0, 0, 0]}
-{"tokens": ["RT", "@", "GayPrideBelize", ":", "MissUniverse", "Belize", "Let", "'", "s", "Go", "Belize", ".", "https://t.co/9suUngvG7T"], "ner_tags": [0, 0, 3, 0, 1, 7, 0, 0, 0, 0, 7, 0, 0]}
+{"tokens": ["RT", "@", "GayPrideBelize", ":"], "ner_tags": [0, 0, 3, 0]}
+{"tokens": ["MissUniverse"], "ner_tags": [1]}
+{"tokens": ["Belize", "Let", "'", "s", "Go", "Belize", ".", "https://t.co/9suUngvG7T"], "ner_tags": [7, 0, 0, 0, 0, 7, 0, 0]}
 {"tokens": ["RT", "@", "BsbLifestyle", "_", "_", ":", "Another", "young", "star", "gone", "way", "too", "soon", "😢", "😢", "😢", "https://t.co/HAz33bS8hn"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["NowPlaying", "She", "In", "Here", "Right", "Now", "by", "BiggDawg", "C", "Loc", "on", "https://t.co/N2EeQhksi0"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 9, 10, 10, 0, 0]}
 {"tokens": ["You", "can", "amaze", "your", "friends", "and", "fellow", "workers", "today", "by", "your", "ab", ".", ".", ".", "More", "for", "Virgo", "https://t.co/KD4RysiyaZ"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0]}
@@ -970,16 +1077,20 @@
 {"tokens": ["RT", "@", "KleinISD", ":", "The", "@", "KleinISD", "Daily", "is", "out", "!", "https://t.co/KLCfYmZNcC", "Stories", "via", "@", "KISD", "_", "Multling"], "ner_tags": [0, 0, 3, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "aprenderinglesz", ":", "Life", "is", "meant", "to", "be", "fun", ":", "A", "vida", "parece", "ser", "divertida", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "femalebook", ":", "@", "my", "crush", "https://t.co/riUzxZqqGQ"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "DoctorZen", ":", "Geologists", ",", "physicists", ",", "chemists", ",", "anthropologists", ",", "geneticists", "-", "-", "every", "discipline", "better", "denounce", "any", "action", "against", "EPA", ".", "…"], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 5, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["RT", "@", "DoctorZen", ":", "Geologists", ",", "physicists", ",", "chemists", ",", "anthropologists", ",", "geneticists", "-", "-", "every", "discipline", "better", "denounce", "any", "action", "against", "EPA", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 5, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["…"], "ner_tags": [0]}
 {"tokens": ["RT", "@", "VicMensa", ":", "Album", "in", "the", "homestretch", ".", ".", ".", "CLOSE", "!", "👀", "https://t.co/uqz6zPr5l6"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "LegalGeagle", "I", "feel", "like", "this", "may", "turn", "out", "to", "be", "way", "worse", ".", "|", "Cheney", "Rule", ".", "Nice", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0]}
 {"tokens": ["@", "KATHERllNE", "All", "she", "was", "doing", "was", "encouraging", "someone", "no", "harm", "there", "bud"], "ner_tags": [0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "a", "_", "mofia", ":", "Adulthood", ":", "https://t.co/c0arJl1bzM"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["How", "to", "start", "a", "Neighborhood", "Watch", "in", "Napa", "https://t.co/ckMRuatVDD", "via", "@", "NapaRegister", "@", "NapaPD", "NeighborhoodWatch", "…", "https://t.co/T3TqJhoCjU"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["How", "to", "start", "a", "Neighborhood", "Watch", "in"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Napa", "https://t.co/ckMRuatVDD", "via", "@", "NapaRegister", "@", "NapaPD"], "ner_tags": [7, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["NeighborhoodWatch", "…", "https://t.co/T3TqJhoCjU"], "ner_tags": [0, 0, 0]}
 {"tokens": ["RT", "@", "SouthernHomo", ":", "It", "'", "s", "like", "y", "'", "all", "elected", "that", "damn", "Cloyd", "Rivers", "account", "to", "be", "president", ".", "I", "swear", "to", "GOD", "I", "'", "d", "rather", "have", "Dory", ".", "https://t.co…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0]}
 {"tokens": ["Pretty", "much", "https://t.co/XJedTummZz"], "ner_tags": [0, 0, 0]}
 {"tokens": ["RT", "@", "broken", ":", "how", "to", "trust", "someone", ":", "you", "don", "'", "t"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Want", "to", "pretend", "you", "’", "re", "performing", "in", "front", "of", "10", ",", "000", "people", "?", "Then", "decide", "whatshouldplaynext", "on", "Power", "95", ".", "3", "https://t.co/ojpWdx1gIT"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 12, 12, 12, 0]}
+{"tokens": ["Want", "to", "pretend", "you", "’", "re", "performing", "in", "front", "of", "10", ",", "000", "people", "?", "Then", "decide"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["whatshouldplaynext", "on", "Power", "95", ".", "3", "https://t.co/ojpWdx1gIT"], "ner_tags": [0, 0, 11, 12, 12, 12, 0]}
 {"tokens": ["\"", "When", "you", "understand", "that", "life", "is", "a", "test", ",", "you", "realize", "that", "nothing", "is", "insignificant", "in", "your", "life", ".", "\"", "Rick", "Warren"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10]}
 {"tokens": ["RT", "@", "_", "xoxo", "_", "kathlyn", ":", "Lmxskaskskssskks", "i", "know", "you", "not", "talking", "https://t.co/ZLcD56L6lT"], "ner_tags": [0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "Marcusb", "3", "_", "@", "RichHomieHuang", "I", "'", "ve", "seen", "ur", "dog", "lick", "beer", "off", "the", "concrete", ".", "Him", "and", "Alan", "can", "bond", "better"], "ner_tags": [0, 9, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0]}
@@ -993,13 +1104,23 @@
 {"tokens": ["10", "hot", "toys", "that", "are", "getting", "couples", "into", "BDSM", "https://t.co/CmOupNGkuf"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "_", "DYLpickle", "13", ":", "\"", "What", "were", "the", "women", "even", "marching", "for", "?", "\"", "https://t.co/PIJssdNy86"], "ner_tags": [0, 0, 9, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["How", "to", "Do", "a", "Great", "Manicure", "at", "Home", "-", "https://t.co/AlxdR9SWc3"], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 0, 0, 0]}
-{"tokens": ["10", "Awesome", "Resources", "for", "Women", "in", "Tech", "https://t.co/QYpEA4agLG", "via", "https://t.co/tBcdSK90sj", "BOSSTIPS"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11]}
+{"tokens": ["10", "Awesome", "Resources", "for", "Women", "in", "Tech", "https://t.co/QYpEA4agLG", "via", "https://t.co/tBcdSK90sj"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["BOSSTIPS"], "ner_tags": [11]}
 {"tokens": ["No", "brainer", ".", "https://t.co/kZMApegN5M"], "ner_tags": [0, 0, 0, 0]}
-{"tokens": ["If", "you", "prefer", "to", "eat", "food", "that", "’", "s", "organicallygrown", ",", "Chiquita", "has", "a", "banana", "for", "you", "!", "https://t.co/S1poVEnumr", "https://t.co/qTYbmAe0zw"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["A", "heart", "that", "trusts", "the", "lord", "is", "a", "heart", "at", "peace", ".", "Heart", "TrustTheLord", "Peace", "Prayer", "Faith", "Ziglar", "…", "https://t.co/Miqq6ZWZRi"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0]}
+{"tokens": ["If", "you", "prefer", "to", "eat", "food", "that", "’", "s"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["organicallygrown", ",", "Chiquita", "has", "a"], "ner_tags": [0, 0, 1, 0, 0]}
+{"tokens": ["banana", "for", "you", "!", "https://t.co/S1poVEnumr", "https://t.co/qTYbmAe0zw"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["A", "heart", "that", "trusts", "the", "lord", "is", "a", "heart", "at", "peace", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Heart"], "ner_tags": [0]}
+{"tokens": ["TrustTheLord"], "ner_tags": [0]}
+{"tokens": ["Peace"], "ner_tags": [0]}
+{"tokens": ["Prayer"], "ner_tags": [0]}
+{"tokens": ["Faith"], "ner_tags": [0]}
+{"tokens": ["Ziglar", "…", "https://t.co/Miqq6ZWZRi"], "ner_tags": [9, 0, 0]}
 {"tokens": ["@", "CassMoneyLive", "I", "'", "ll", "DM", "you", "lol"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "paperbeatstweet", ":", "if", "your", "fetish", "is", "credited", "artwork", "youll", "probably", "never", "get", "off"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["What", "happened", "last", "night", "can", "happen", "again", ".", "FortuneBot"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"tokens": ["What", "happened", "last", "night", "can", "happen", "again", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["FortuneBot"], "ner_tags": [3]}
 {"tokens": ["RT", "@", "Leel", "_", "hussle", ":", "Get", "it", "how", "you", "live", ".", "https://t.co/dwLGwEsX6H"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "itsdougthepug", ":", "When", "ur", "friend", "buys", "another", "pitcher", "https://t.co/UA5iJ1gyKw"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Questions", "Not", "Answers", "|", "Box", "of", "Crayons", "https://t.co/CXafSHeWPV", "https://t.co/9kvP5sokij"], "ner_tags": [3, 4, 4, 0, 1, 2, 2, 0, 0]}
@@ -1007,15 +1128,20 @@
 {"tokens": ["Straight", "a", "altered", "logistic", "tactic", "remedial", "of", "erratic", "militancy", "organizations", ":", "eagFcUa"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "hobibf", ":", "i", "dare", "you", "to", "tell", "me", "this", "isn", "'", "t", "taehyung", "and", "jungkook", "https://t.co/YMKHcRifTS"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 9, 0]}
 {"tokens": ["RT", "@", "Nazaire", "73", ":", "Trump", "’", "s", "budget", "would", "cut", "funding", "for", "Appalachia", "—", "and", "his", "allies", "in", "coal", "country", "are", "livid", "https://t.co/BAt1Wqqiar", "via", "@", "voxd", "…"], "ner_tags": [0, 9, 10, 10, 0, 9, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 9, 10, 0]}
-{"tokens": ["trapmusic", "radio", "Instant", "Party", "!", "-", "Horizons", "https://t.co/yjsUUapTjX"], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["trapmusic"], "ner_tags": [0]}
+{"tokens": ["radio", "Instant", "Party", "!", "-", "Horizons", "https://t.co/yjsUUapTjX"], "ner_tags": [0, 0, 0, 0, 0, 1, 0]}
 {"tokens": ["@", "kookmin", "_", "ph", ":", "3", "thanks", "hahaha"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["[", "ARTICLE", "]", "Top", "5", "Highest", "Paid", "of", "Actors", "Drama", "Synopsis", "Lee", "Young", "Ae", "(", "Saimdang", ",", "Light", "'", "s", "Diary", ")", "-", "over", "a", "Billion", ".", ".", ".", "https://t.co/QqJ5YE1RP1"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 10, 0, 3, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["How", "to", "use", "data", "to", "enhance", "your", "onlineshopping", "fulfillment", ".", "https://t.co/HndAq3gWE1"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["How", "to", "use", "data", "to", "enhance", "your"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["onlineshopping"], "ner_tags": [0]}
+{"tokens": ["fulfillment", ".", "https://t.co/HndAq3gWE1"], "ner_tags": [0, 0, 0]}
 {"tokens": ["@", "borg", "_", "nic", "oi", "?"], "ner_tags": [0, 0, 0, 0, 0, 0]}
 {"tokens": ["Good", "morning", ",", "beautiful", "!", "https://t.co/cv299VlH5k"], "ner_tags": [0, 0, 0, 0, 0, 0]}
-{"tokens": ["Wow", "!", "Kid-in-the-candy-store", "all-organoid", "issue", "of", "Development", "!", "https://t.co/QYmFX3YFzJ", "stemcells", "What", "to", "read", "1", "st", "?", "…", "https://t.co/jhcZPpguJ7"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Wow", "!", "Kid-in-the-candy-store", "all-organoid", "issue", "of", "Development", "!", "https://t.co/QYmFX3YFzJ"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["stemcells", "What", "to", "read", "1", "st", "?", "…", "https://t.co/jhcZPpguJ7"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "katarina", "_", "neko", "/", "/", "FANGIRLING", "SCREaaMS"], "ner_tags": [0, 9, 10, 10, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "davidlongoria", "7", "An", "obstacle", "is", "often", "an", "unrecognized", "opportunity", ".", "-", "Petteri", "Tarkkonen", "quote", "https://t.co/kEdv4NLpOm"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 0, 0]}
+{"tokens": ["RT", "@", "davidlongoria", "7", "An", "obstacle", "is", "often", "an", "unrecognized", "opportunity", ".", "-", "Petteri", "Tarkkonen"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10]}
+{"tokens": ["quote", "https://t.co/kEdv4NLpOm"], "ner_tags": [0, 0]}
 {"tokens": ["I", "'", "ve", "done", "3", "Collaborations", "in", "the", "Sims", "4", "but", "more", "are", "to", "come", ",", "check", "out", "my", "Playlist", "of", "the", "ones", "I", "already", "did", ":", "-", ")", "…", "https://t.co/qBJRFu2KBW"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["https://t.co/uRS5UPaj7J"], "ner_tags": [0]}
 {"tokens": ["Layla", "Sa", "3", "ida", ".", ".", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
@@ -1029,29 +1155,45 @@
 {"tokens": ["It", "'", "s", "time", "to", "bust", "out", "some", "of", "those", "old", "classic", "games", "!", "https://t.co/BJNEZfJbge"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Then", "raoul", "spoke", "m", ",", "her", "eyes", "in", "all", "their", "pains", ",", "oh", "madam", "mina", "."], "ner_tags": [0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 0]}
 {"tokens": ["https://t.co/BJSV3u2Bo1"], "ner_tags": [0]}
-{"tokens": ["RT", "@", "meoss", "31", ":", "Ed", "'", "s", "-", "you", "are", "the", "one", "who", "makes", "me", "happy", "Always", "YOU", "I", "swear", "after", "five", "years", ",", "you", "are", "mine", "MAYWARDForCocaColaPH", "https://t…"], "ner_tags": [0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0]}
-{"tokens": ["RT", "@", "MarioLopezExtra", ":", "Whoa", ".", ".", ".", "Just", "saw", "the", "new", "MamaJune", "!", "@", "WEtv", "JessicaRabbit", "https://t.co/15FkpMp9gH"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 1, 9, 0]}
-{"tokens": ["@", "Willpower", "_", "8", "Sorry", "for", "the", "delay", "but", "we", "'", "ve", "got", "your", "reply", "HowDoYouFeelChallenge", "https://t.co/6ax9VLjnZP"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["RT", "@", "meoss", "31", ":", "Ed", "'", "s", "-", "you", "are", "the", "one", "who", "makes", "me", "happy", "Always", "YOU", "I", "swear", "after", "five", "years", ",", "you", "are", "mine"], "ner_tags": [0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["MAYWARDForCocaColaPH", "https://t…"], "ner_tags": [11, 0]}
+{"tokens": ["RT", "@", "MarioLopezExtra", ":", "Whoa", ".", ".", ".", "Just", "saw", "the", "new"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["MamaJune", "!", "@", "WEtv"], "ner_tags": [3, 0, 0, 1]}
+{"tokens": ["JessicaRabbit", "https://t.co/15FkpMp9gH"], "ner_tags": [9, 0]}
+{"tokens": ["@", "Willpower", "_", "8", "Sorry", "for", "the", "delay", "but", "we", "'", "ve", "got", "your", "reply"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["HowDoYouFeelChallenge", "https://t.co/6ax9VLjnZP"], "ner_tags": [3, 0]}
 {"tokens": ["Coe"], "ner_tags": [0]}
-{"tokens": ["Sat", "18", "th", "Mar", "00", ":", "00", ":", "The", "Weather", "in", "Glasgow", "is", "currently", "Partly", "cloudy", "and", "9", "C", "|", "Max", ":", "11", "C", "Min", ":", "9", "C", "-", "MyWeather"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sat", "18", "th", "Mar", "00", ":", "00", ":", "The"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Weather", "in"], "ner_tags": [0, 0]}
+{"tokens": ["Glasgow", "is", "currently", "Partly", "cloudy", "and", "9", "C", "|", "Max", ":", "11", "C", "Min", ":", "9", "C", "-"], "ner_tags": [7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["MyWeather"], "ner_tags": [0]}
 {"tokens": ["@", "maria", "_", "htrza", "Nope", "the", "camera", "saw", "it", "first", "lucky", "phon", ":", "-", "(", "Maria", "I", "love", "every", "sexy", "curv", "of", "your", "body", "don", "'", "t", "stop", "showing", "that", "sexy", "body", "of", "yours"], "ner_tags": [0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "ZenkiEdgar", ":", "@", "LadyThriller", "69", "@", "DiamondandSilk", "@", "realDonaldTrump", "Only", "a", "possibly", "because", "this", "dope", "allowed", "test", "to", "happen", ".", "https://t.co/oZ…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Evening", "Forecast", ":", "Increasing", "clouds", "with", "little", "temperature", "change", ".", "cowx"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Evening", "Forecast", ":", "Increasing", "clouds", "with", "little", "temperature", "change", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["cowx"], "ner_tags": [0]}
 {"tokens": ["Sebring", "Friday", "Notebook", "https://t.co/rN8l6W0LGQ"], "ner_tags": [0, 0, 11, 0]}
-{"tokens": ["2", "/", "2", ":", "Feels", "Like", ":", "37", "F", "(", "3", "C", ")", "Humidity", ":", "24", "%", "Local", "Forecast", ":", "https://t.co/h0fAk3mKwG", "weather", "news"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["2", "/", "2", ":", "Feels", "Like", ":", "37", "F", "(", "3", "C", ")", "Humidity", ":", "24", "%", "Local", "Forecast", ":", "https://t.co/h0fAk3mKwG"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["weather"], "ner_tags": [0]}
+{"tokens": ["news"], "ner_tags": [0]}
 {"tokens": ["RT", "@", "marIboros", ":", "I", "’", "d", "love", "to", "relax", "but", "it", "’", "s", "just", "not", "realistic"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "Kaaaatie", "4", ":", "I", "just", "need", "a", "really", "close", "friend", "that", "has", "a", "baby", "so", "I", "can", "have", "one", "but", "not", "actually", "have", "one", ",", "ya", "know", "?"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Now", "playing", "Money", "Ain", "'", "t", "A", "Problem", "Feat", ".", "French", "Montana", "by", "Diddy", "!", "Click", "link", "below", "https://t.co/MIUcppR9OU", "https://t.co/HuYksBaHkb"], "ner_tags": [0, 0, 3, 4, 4, 4, 4, 4, 0, 0, 9, 10, 0, 9, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "2000", "sHits", ":", "50", "Cent", "-", "21", "Questions", "ft", ".", "Nate", "Dogg", "https://t.co/vlZiyvWUxG"], "ner_tags": [0, 0, 0, 0, 0, 9, 10, 0, 3, 4, 0, 0, 9, 10, 0]}
 {"tokens": ["@", "MIrandaBru", "_", "https://t.co/NNbbNE8Y5E"], "ner_tags": [0, 9, 0, 0]}
-{"tokens": ["RT", "@", "ColiDuhh", ":", "It", "'", "s", "been", "too", "long", "😔", "KyState", "_", "RYS", "17", "KyState", "_", "RYS", "17", "KyState", "_", "RYS", "17", "https://t.co/PrFVEFlr12"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["RT", "@", "ColiDuhh", ":", "It", "'", "s", "been", "too", "long", "😔"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["KyState", "_", "RYS", "17"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["KyState", "_", "RYS", "17"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["KyState", "_", "RYS", "17", "https://t.co/PrFVEFlr12"], "ner_tags": [0, 0, 0, 0, 0]}
 {"tokens": ["naked", "lindsay", "sex", "brutal", "in", "school", "girl", "https://t.co/mPPIMf6DS5"], "ner_tags": [0, 9, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "ffyvibes", ":", "a", "heart", "that", "'", "s", "broke", "is", "heart", "that", "'", "s", "been", "loved"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Hey", "LOOK", "the", "weekend", "is", "here", "!", "https://t.co/LXNlQp31hO"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "sslah", "771", ":", "She", "'", "s", "Beautiful", "!", "(", "842", ")", "SwallaVideo", "https://t.co/ggbS2kIDpA"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["RT", "@", "sslah", "771", ":", "She", "'", "s", "Beautiful", "!", "(", "842", ")"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["SwallaVideo", "https://t.co/ggbS2kIDpA"], "ner_tags": [3, 0]}
 {"tokens": ["brooke", "from", "candy", "girls", "nude", "https://t.co/rMP2DXSLnM"], "ner_tags": [9, 0, 5, 6, 0, 0]}
 {"tokens": ["@", "coffee", "_", "bean", "2016", "I", "don", "'", "t", "have", "Bellarmine", "money", "lmao"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]}
-{"tokens": ["You", "are", "not", "alone", ".", "https://t.co/gaNO3vU4Im", "foodrelatedissueseatingdisorders", "generalrecovery"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["You", "are", "not", "alone", ".", "https://t.co/gaNO3vU4Im"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["foodrelatedissueseatingdisorders"], "ner_tags": [0]}
+{"tokens": ["generalrecovery"], "ner_tags": [0]}
 {"tokens": ["How", "'", "Up", "and", "Vanished", "'", "Podcast", "Helped", "Solve", "Cold", "Murder", "Case", "-", "https://t.co/PzZPTGoGy4", "https://t.co/4WGx0t8yLq"], "ner_tags": [0, 0, 3, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Auto", "DJ", "Show", "is", "starting", "now", "!", "Listen", "live", "here", ":", "https://t.co/qBE5T6alql"], "ner_tags": [3, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Jack", "Gilinsky", ",", "you", "mean", "the", "world", "to", "me", "thanks", "for", "everything", ",", "i", "love", "you", "."], "ner_tags": [9, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
@@ -1080,15 +1222,18 @@
 {"tokens": ["@", "Schofe", "@", "C", "4", "Gogglebox", "would", "love", "if", "@", "ITV", "could", "arrange", "for", "you", "and", "@", "hollywills", "to", "film", "the", "Wha", "wha", "tribe", ".", "I", "'", "d", "watch", "that", "sooo", "funny", "😂"], "ner_tags": [0, 9, 0, 0, 0, 3, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "KammBe", "thats", "no", "help"], "ner_tags": [0, 9, 0, 0, 0]}
 {"tokens": ["@", "TonyTGoodman", "@", "WholeFoods", "@", "NorahRab", "We", "just", "missed", "you", "!"], "ner_tags": [0, 9, 0, 1, 0, 9, 0, 0, 0, 0, 0]}
-{"tokens": ["Tonight", "at", "10", "on", "KODE", "Action", "12", "News", ".", "kode", "12", "https://t.co/Ad6ruIyr5M"], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 4, 0, 3, 4, 0]}
+{"tokens": ["Tonight", "at", "10", "on", "KODE", "Action", "12", "News", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 4, 0]}
+{"tokens": ["kode", "12", "https://t.co/Ad6ruIyr5M"], "ner_tags": [3, 4, 0]}
 {"tokens": ["Help", "to", "Stop", "Cruel", "Treatment", "of", "Monkeys", "at", "Biomedical", "Laboratories", "!", "Plz", "sign", ":", "https://t.co/c55GE1ecfz", "https://t.co/d7TyB0bIbm"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Ireland", "'", "s", "clinical", "trials", "capacity", "is", "advancing", ".", "We", "look", "at", "Ireland", "'", "s", "progress", "in", "this", "article", "https://t.co/QZAkAxLB1d"], "ner_tags": [7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["SUNNNNNNNNNNA"], "ner_tags": [5]}
 {"tokens": ["UC", "perfect", "7", "-", "7", "from", "the", "field", ".", "Would", "be", "8", "if", "that", "Caupain", "3", "counted", ".", "@", "WCPO"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["2017", ",", "03", ",", "18", "06", ":", "30", ":", "05", "jay", "dmb", "test", "8", "-", "11", "-", "2016"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "ELVIclothing", ":", "To", "celebrate", "the", "launch", "of", "our", "'", "Into", "the", "Wild", "'", "collection", "RT", "and", "Follow", "to", "win", "our", "tropical", "print", "culottes", "!", "…"], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 11, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["RT", "@", "ELVIclothing", ":", "To", "celebrate", "the", "launch", "of", "our", "'", "Into", "the", "Wild", "'", "collection", "RT", "and", "Follow", "to"], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 11, 12, 12, 12, 12, 12, 0, 0, 0, 0]}
+{"tokens": ["win", "our", "tropical", "print", "culottes", "!", "…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "WorIdStarLaugh", ":", "https://t.co/fCqGqmEsvz"], "ner_tags": [0, 0, 0, 0, 0]}
-{"tokens": ["Race", "Recap", ":", "Run", "@", "the", "Ridge", "5", "K", "(", "2012", ")", "-", "{", "from", "my", "blog", "archives", "}", "healthybalance", "https://t.co/bjZAsvcxcs"], "ner_tags": [9, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Race", "Recap", ":", "Run", "@", "the", "Ridge", "5", "K", "(", "2012", ")", "-", "{", "from", "my", "blog", "archives", "}"], "ner_tags": [9, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["healthybalance", "https://t.co/bjZAsvcxcs"], "ner_tags": [0, 0]}
 {"tokens": ["Wow", "mbn", "https://t.co/VQt87Vwz4X"], "ner_tags": [0, 0, 0]}
 {"tokens": ["RT", "@", "CrapTaxidermy", ":", "\"", "I", "told", "you", "it", "was", "fucking", "hunting", "season", "Doreen", "but", "Nooooo", ",", "we", "had", "to", "visit", "your", "sisters", "new", "place", "by", "the", "lake", "!", "\"", "https:…"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "marIboros", ":", "I", "love", "when", "people", "open", "up", "to", "me", "and", "call", "me", "nicknames", "on", "their", "own", "and", "just", "like", "me", "and", "trust", "me", "it", "’", "s", "such", "a", "nice", "feeling"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
@@ -1098,31 +1243,48 @@
 {"tokens": ["RT", "@", "abhik", "32351", ":", "why", "Woman", "’", "s", "interview", "gets", "cancelled", "?", "?", "?", "?", "https://t.co/KI1WURQ5Gw"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["15", "Mind", "Boggling", "Facts", "That", "Will", "Serve", "Up", "a", "Plate", "of", "Food", "for", "Thought", "https://t.co/oiHj6IQGuX"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "DepCrusaderz", "For", "free", "?", "I", "have", "cotton", "that", "needs", "picking", ".", ".", "."], "ner_tags": [0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["I", "dream", "of", "a", "day", "Birmingham", "is", "Birminghamistan", "an", "islamic", "state", "with", "no", "kufr", "Police", "https://t.co/q2XTjd6x0m"], "ner_tags": [0, 0, 0, 0, 0, 7, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "dream", "of", "a", "day"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["Birmingham", "is"], "ner_tags": [7, 0]}
+{"tokens": ["Birminghamistan", "an", "islamic", "state", "with", "no", "kufr", "Police", "https://t.co/q2XTjd6x0m"], "ner_tags": [0, 0, 5, 5, 0, 0, 0, 0, 0]}
 {"tokens": ["OMG", "!", "Why", "?", "https://t.co/KFAEj7Ikk1"], "ner_tags": [0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "yesImthatdope", ":", "Mind", "your", "business", "https://t.co/MBbVGUB9h2"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Harry", "Potter", "Humour", "-", "Writers", "Write", "Creative", "Blog", "https://t.co/U7LqBNgv3z"], "ner_tags": [9, 10, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "iLGDaily", ":", "https://t.co/ymhWfDRoKm"], "ner_tags": [0, 0, 1, 0, 0]}
-{"tokens": ["Positive", "Punk", "rock", "music", "https://t.co/3U6eUauSOR", "@", "BaszMM", "sport", "indiedev", "gamedev", "NowPlaying", "guitar", "punkrock", "https://t.co/BAEqu7olPJ"], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["I", "won", "7", "achievements", "in", "2", "games", "for", "220", "TrueAchievement", "points", "https://t.co/HQ81xmjBG2"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Positive"], "ner_tags": [0]}
+{"tokens": ["Punk"], "ner_tags": [0]}
+{"tokens": ["rock"], "ner_tags": [0]}
+{"tokens": ["music", "https://t.co/3U6eUauSOR", "@", "BaszMM"], "ner_tags": [0, 0, 0, 5]}
+{"tokens": ["sport"], "ner_tags": [0]}
+{"tokens": ["indiedev"], "ner_tags": [0]}
+{"tokens": ["gamedev"], "ner_tags": [0]}
+{"tokens": ["NowPlaying"], "ner_tags": [0]}
+{"tokens": ["guitar"], "ner_tags": [0]}
+{"tokens": ["punkrock", "https://t.co/BAEqu7olPJ"], "ner_tags": [0, 0]}
+{"tokens": ["I", "won", "7", "achievements", "in", "2", "games", "for", "220"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["TrueAchievement", "points", "https://t.co/HQ81xmjBG2"], "ner_tags": [0, 0, 0]}
 {"tokens": ["Intensive", "speech", "therapy", "helps", "months", "after", "stroke", "https://t.co/opScLXtiC3"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["I", "will", "never", "regret", "on", "my", "decision", "to", "support", "Niall", "Horan"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10]}
 {"tokens": ["Trio", "@", "phronesismusic", "collaborates", "with", "the", "Frankfurt", "Radio", "Big", "Band", "&", "amp", ";", "@", "JulArgJazz", "for", "The", "Behemoth", "@", "EditionRecords", "…", "https://t.co/UV5UG6ec2w"], "ner_tags": [0, 0, 5, 0, 0, 0, 5, 6, 6, 6, 0, 0, 0, 0, 5, 0, 3, 4, 0, 1, 0, 0]}
 {"tokens": ["@", "realJosephEG", "https://t.co/v65QoA0Uyx"], "ner_tags": [0, 0, 0]}
 {"tokens": ["@", "CorporalMum", "YES", "😩", ".", ".", ".", "that", "'", "ll", "teach", "me", "for", "doing", "the", "laundry", "&", "amp", ";", "playing", "with", "the", "dog", "lol"], "ner_tags": [0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "CrinkleWuskyCub", ":", "Diaperart", "For", "@", "WinstonBun", "I", "guess", "he", "couldnt", "bring", "his", "work", "pants", "to", "work", "cuz", "it", "was", "still", "wet", ":", "3", "c", "!", "https://t.co/6oZ…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["RT", "@", "CrinkleWuskyCub", ":"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["Diaperart", "For", "@", "WinstonBun", "I", "guess", "he", "couldnt", "bring", "his", "work", "pants", "to", "work", "cuz", "it", "was", "still", "wet", ":", "3", "c", "!", "https://t.co/6oZ…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "LanaDelRey", ":", "Music", "To", "Watch", "Boys", "To", "http://t.co/FLdvkmkwjH"], "ner_tags": [0, 0, 9, 0, 3, 4, 4, 4, 4, 0]}
 {"tokens": ["RT", "@", "YasminYonis", ":", "How", "to", "deal", "with", "all", "your", "trauma", "&", "amp", ";", "baggage", ".", "How", "to", "date", ".", "How", "to", "say", "no", ".", "How", "to", "save", ".", "How", "to", "cook", ".", "How", "suffocating", "a", "…"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Temp", "66", ".", "0", "°", "F", "Falling", ",", "Dew", "point", "53", ".", "9", "°", "Pressure", "30", ".", "101", "in", "Rising", "slowly", "Wind", "N", "0", "mph", "Rain", "today", "0", ".", "00", "in", "https://t.co/gPtnr2dDtV", "stlwx", "mowx"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Temp", "66", ".", "0", "°", "F", "Falling", ",", "Dew", "point", "53", ".", "9", "°", "Pressure", "30", ".", "101", "in", "Rising", "slowly", "Wind", "N", "0", "mph", "Rain", "today", "0", ".", "00", "in", "https://t.co/gPtnr2dDtV"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["stlwx"], "ner_tags": [0]}
+{"tokens": ["mowx"], "ner_tags": [0]}
 {"tokens": ["RT", "@", "anisasx", ":", "116", ")", "this", "is", "so", "triggering", "for", "anyone", "who", "watches", "ahs", "https://t.co/g5g9LX7fA5"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "PauDybala", "_", "JR", ":", "dybalamask", "could", "be", "/", "podrìa", "ser", "/", "potrebbe", "essere", ".", ".", ".", ".", "https://t.co/Vr8n6CLJGY"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["RT", "@", "PauDybala", "_", "JR", ":"], "ner_tags": [0, 0, 9, 0, 0, 0]}
+{"tokens": ["dybalamask", "could", "be", "/", "podrìa", "ser", "/", "potrebbe", "essere", ".", ".", ".", ".", "https://t.co/Vr8n6CLJGY"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "rickygervais", ":", "If", "you", "don", "'", "t", "have", "empathy", "with", "animals", ",", "you", "don", "'", "t", "have", "empathy", "at", "all", ".", "Have", "a", "peaceful", "night", ".", "https://t.co/z0g9bIDulB"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "pipiixx", ":", "https://t.co/84tRvF1Qow"], "ner_tags": [0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "LonesomeGhosts", ":", "I", "'", "ve", "had", "enough", "of", "the", "world", "and", "its", "people", "'", "s", "mindless", "games", ",", "so", "pardon", "me", "while", "I", "burst", "and", "rise", "above", "the", "flame", "🔥"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["How", "Miami", "Dolphins", "defensive", "end", "spot", "stacks", "up", ",", "what", "that", "means", "for", "Dion", "Jordan", "https://t.co/41YBT4PnVC"], "ner_tags": [0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 0]}
 {"tokens": ["RT", "@", "praises", ":", "\"", "you", "gonna", "hate", "yourself", "in", "the", "morning", "if", "you", "stay", "up", "late", "\"", "jokes", "on", "you", "I", "'", "m", "gonna", "hate", "myself", "in", "the", "morning", "no", "matter", "what"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["https://t.co/HS5IVlstQj", "https://t.co/r9ErQBSbfV"], "ner_tags": [0, 0]}
-{"tokens": ["Jimmy", "Fallon", "Makes", "Blake", "Shelton", "Try", "Sushi", "uganda", "business", "https://t.co/s2YeAWyFS5"], "ner_tags": [9, 10, 0, 9, 10, 0, 0, 7, 0, 0]}
+{"tokens": ["Jimmy", "Fallon", "Makes", "Blake", "Shelton", "Try", "Sushi"], "ner_tags": [9, 10, 0, 9, 10, 0, 0]}
+{"tokens": ["uganda", "business", "https://t.co/s2YeAWyFS5"], "ner_tags": [7, 0, 0]}
 {"tokens": ["Aw", "@", "abbykosic", "I", "can", "share", "with", "you", "❤", "https://t.co/J0IbSu8FLh"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "Hilarious", "_", "Idiot", ":", "A", "relationship", "is", "not", "based", "on", "the", "length", "of", "time", "you", "spent", "together", ",", "it", "'", "s", "based", "on", "the", "foundation", "you", "built", "together", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "JessieBelnap", ":", "the", "feeling", "when", "spring", "break", "has", "begun", "and", "is", "twooooo", "weeeeeks", "longgggg", "!", "!", "!", "!", "!", "https://t.co/PpLp7aLYH7"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
@@ -1132,16 +1294,20 @@
 {"tokens": ["RT", "@", "hobxo", ":", "when", "your", "girl", "doesn", "'", "t", "go", "shopping", "with", "you", "but", "your", "homie", "does", "https://t.co/Yhy3HW0zyX"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["school", "girls", "abortion", "https://t.co/jPlmROK39M"], "ner_tags": [0, 0, 0, 0]}
 {"tokens": ["RT", "@", "curscurs", ":", "your", "standards", "began", "to", "be", "ignored", "when", "u", "let", "mfs", "get", "comfortable", "in", "knowing", "that", "another", "chance", "will", "always", "exist"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Listen", "to", "PreTape", "by", "RichiDenz", "np", "on", "SoundCloud", "https://t.co/5x6wc5sRqA"], "ner_tags": [0, 0, 3, 0, 9, 0, 0, 1, 0]}
+{"tokens": ["Listen", "to", "PreTape", "by", "RichiDenz"], "ner_tags": [0, 0, 3, 0, 9]}
+{"tokens": ["np", "on"], "ner_tags": [0, 0]}
+{"tokens": ["SoundCloud", "https://t.co/5x6wc5sRqA"], "ner_tags": [1, 0]}
 {"tokens": ["RT", "@", "paleofuture", ":", "Seriously", ",", "why", "is", "Ivanka", "in", "these", "meetings", "with", "world", "leaders", "?", "Has", "she", "been", "given", "a", "title", "yet", "because", "this", "is", "just", "…"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "ltsGREYSquotes", ":", "me", "24", "/", "7", "lol", "https://t.co/25ilXmLgoj"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "softpasteIs", ":", "Lost", "in", "a", "field", "of", "flowers", "https://t.co/HxlDLinftt"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "xaytarak", "_", "vahak", ":", "sometimes", "i", "wish", "certain", "people", "were", "never", "a", "part", "of", "my", "life"], "ner_tags": [0, 9, 10, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["How", "little", "respect", "do", "you", "have", "to", "have", "for", "the", "role", "of", "MP", "to", "spend", "so", "much", "time", "doing", "other", "work", "?", "OsborneResign", "…", "https://t.co/EQIbZM9kBb"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["How", "little", "respect", "do", "you", "have", "to", "have", "for", "the", "role", "of", "MP", "to", "spend", "so", "much", "time", "doing", "other", "work", "?"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["OsborneResign", "…", "https://t.co/EQIbZM9kBb"], "ner_tags": [0, 0, 0]}
 {"tokens": ["RT", "@", "artificaIly", ":", "Drained", "of", "blood", ",", "the", "heart", "is", "white", ".", "https://t.co/k4YzGkWhsm"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["14", ".", "Lyla", "-", "MANTAN", "KEKASIH"], "ner_tags": [0, 0, 0, 0, 9, 10]}
 {"tokens": ["RT", "@", "LeafyIsHere", ":", "https://t.co/NMdsGpkqMt"], "ner_tags": [0, 0, 0, 0, 0]}
-{"tokens": ["ShaQ", "on", "the", "phone", "I", "ain", "'", "t", "hear", "this", "nigga", "voice", "in", "yearsss", "❤", "️", "freethereal"], "ner_tags": [9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["ShaQ", "on", "the", "phone", "I", "ain", "'", "t", "hear", "this", "nigga", "voice", "in", "yearsss", "❤", "️"], "ner_tags": [9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["freethereal"], "ner_tags": [0]}
 {"tokens": ["RT", "@", "jinjjarevil", ":", "i", "cant", "stop", "laughing", "HELP", "https://t.co/05KB18B2wf"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "TheBestOfGifs", "1", ":", "TWENTY-SIX", "YEARS", "AGO", "!", "/", "/", "Beauty", "and", "the", "Beast", "https://t.co/qsy37dQgRa"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 4, 0]}
 {"tokens": ["RT", "@", "ThisFoodTho", ":", "Um", ",", "Yes", "https://t.co/QLBNSfPm4u"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
@@ -1156,7 +1322,10 @@
 {"tokens": ["Now", "Playing", ":", "Apna", "Sangeet", "-", "Valeti", "Bhabiyan", "https://t.co/Rplegi07vb"], "ner_tags": [0, 0, 0, 3, 4, 0, 9, 10, 0]}
 {"tokens": ["RT", "@", "AltYelloNatPark", ":", "https://t.co/To1QcXH8VD"], "ner_tags": [0, 0, 7, 0, 0]}
 {"tokens": ["RT", "@", "Genius", ":", "DJs", "and", "producers", "can", "now", "get", "paid", "for", "their", "SoundCloud", "mixes", "🙏", "https://t.co/ovR779rVVr", "https://t.co/ViWUQUYRCv"], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 11, 12, 0, 0, 0]}
-{"tokens": ["floral", "kaleidoscope", "by", "Kaye", "_", "Menner", "photography", "quality", "prints", "cards", "and", "more", "at", ":", "https://t.co/1gjXZd9Mg7"], "ner_tags": [3, 3, 0, 9, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["floral"], "ner_tags": [3]}
+{"tokens": ["kaleidoscope", "by"], "ner_tags": [3, 0]}
+{"tokens": ["Kaye", "_", "Menner"], "ner_tags": [9, 0, 9]}
+{"tokens": ["photography", "quality", "prints", "cards", "and", "more", "at", ":", "https://t.co/1gjXZd9Mg7"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "JacobRhines", "that", "or", "shit", "on", "them", "lol"], "ner_tags": [0, 9, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "JacobWhitesides", ":", "i", "would", "as", "well", "https://t.co/1RcEAlxWm5"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "marIboros", ":", "how", "do", "you", "uninstall", "school"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0]}
@@ -1164,7 +1333,8 @@
 {"tokens": ["RT", "@", "ItsTravelVibes", ":", "Birmingham", ",", "United", "Kingdom", "https://t.co/WcGf0C68Vz"], "ner_tags": [0, 0, 3, 0, 7, 8, 8, 8, 0]}
 {"tokens": ["RT", "@", "A", "_", "Sultry", "_", "Mirage", ":", "\"", "There", "'", "s", "always", "room", "at", "our", "base", "for", "another", ",", "Helen", ".", ".", "you", "know", "you", "'", "re", "welcome", "here", "~", "\"", "https://t.co/TJbtkggDSY"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["152", "Chikorita", "(", "Tackle", "/", "Grass", "Knot", "8", "/", "12", "/", "0", "-", "44", ".", "44", "%", ")", "None", "Paramount", "Dr", "L", "8", "J", "2", "M", "7", ",", "08", ":", "30", ":", "00", "pm", "(", "29", "m", "45", "s", "left", ")", "https://t.co/tQHwbjzXib"], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "maywardUn", ":", "Good", "morning", "@", "CocaColaPH", "721", "K", "tweets", "Fresh", "and", "Organic", ".", "MAYWARDForCocaColaPH", "https://t.co/18p6Y8Cs7X"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["RT", "@", "maywardUn", ":", "Good", "morning", "@", "CocaColaPH", "721", "K", "tweets", "Fresh", "and", "Organic", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["MAYWARDForCocaColaPH", "https://t.co/18p6Y8Cs7X"], "ner_tags": [0, 0]}
 {"tokens": ["@", "HuffPostWeird", "There", "'", "s", "nothing", "\"", "hilarious", "\"", "about", "it", ".", "Try", "doing", "some", "actual", "research", "on", "the", "subject", ".", "https://t.co/Skmrsuz98e"], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "coIeactivity", ":", "this", "picture", "screams", "perfection", "https://t.co/0XUuf288j7"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["I", "STOPPED", "BREATHING", "https://t.co/AUZEmrRInX"], "ner_tags": [0, 0, 0, 0]}
@@ -1175,37 +1345,57 @@
 {"tokens": ["RT", "@", "DearYouFromWe", ":", "stop", "rushing", "your", "life", ".", "just", "live", ".", "just", "breathe", ".", "just", "be", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Your", "natural", "awareness", "of", "social", "justice", "makes", "it", "hard", "to", "just", ".", ".", ".", "More", "for", "Aquarius", "https://t.co/ubeE2ZD4ow"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Wind", "0", ",", "0", "km", "/", "h", "E", ".", "Barometer", "1000", ",", "2", "hPa", ",", "Falling", "slowly", ".", "Temperature", "12", ",", "4", "°", "C", ".", "Rain", "today", "0", ",", "0", "mm", ".", "Humidity", "71", "%"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Free", "on", "eBook", "Blitz", ":", "The", "Eslites", "by", "CM", "Doporto", "https://t.co/lSmKwx0q4g", "ebblitz", "https://t.co/H7qDz6E2Fv"], "ner_tags": [0, 0, 3, 4, 4, 4, 4, 0, 9, 10, 0, 3, 0]}
+{"tokens": ["Free", "on", "eBook", "Blitz", ":", "The", "Eslites", "by", "CM", "Doporto", "https://t.co/lSmKwx0q4g"], "ner_tags": [0, 0, 3, 4, 4, 4, 4, 0, 9, 10, 0]}
+{"tokens": ["ebblitz", "https://t.co/H7qDz6E2Fv"], "ner_tags": [3, 0]}
 {"tokens": ["Shadows", ".", "We", "had", "to", "get", "out", "and", "enjoy", "the", "snow", "before", "this", "gorgeous", "sunshine", "melted", "it", "all", "!", ".", ".", ".", ".", "…", "https://t.co/650uEK3Dzq"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["https://t.co/TCq5aJG6Rx"], "ner_tags": [0]}
 {"tokens": ["Saw", "a", "turtle", "https://t.co/89GYXKQHX9"], "ner_tags": [0, 0, 0, 0]}
-{"tokens": ["RT", "@", "amyrightside", ":", "Age", "of", "Defenders", "-", "Multiplayer", "Tower", "Defense", "and", "Offense", "post", ".", ".", ".", "https://t.co/kkWpZlqHHk", "ipad", "games", "strategy"], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 11, 0, 0]}
-{"tokens": ["i", "'", "m", "leaving", "for", "BeautyAndTheBeast", ":", "D", "i", "'", "m", "so", "excited", "i", "have", "waited", "so", "long", "for", "this"], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["RT", "@", "amyrightside", ":", "Age", "of", "Defenders", "-", "Multiplayer", "Tower", "Defense", "and", "Offense", "post", ".", ".", ".", "https://t.co/kkWpZlqHHk"], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["ipad"], "ner_tags": [11]}
+{"tokens": ["games"], "ner_tags": [0]}
+{"tokens": ["strategy"], "ner_tags": [0]}
+{"tokens": ["i", "'", "m", "leaving", "for"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["BeautyAndTheBeast", ":", "D", "i", "'", "m", "so", "excited", "i", "have", "waited", "so", "long", "for", "this"], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["We", "love", "that", "we", "have", "friends", "all", "over", "the", "world", "!", "Here", "is", "friend", "Isabella", "proudly", "wearing", "her", "CIM", "t-shirt", "today", ".", ".", ".", "https://t.co/aEJ0owLbCU"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "climb", "_", "chairman", ":", "Part", "2", ".", "https://t.co/bmPpwNsOMh"], "ner_tags": [0, 0, 9, 10, 10, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "chabot", "_", "cameron", "well", "if", "you", "stayed", "you", "wouldn", "'", "t", "go", "back", "for", "another", "week"], "ner_tags": [0, 9, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": [".", "@", "keselowski", "currently", "p", "5", "after", "his", "first", "run", ".", "|", "@", "allianceparts", "@", "FordPerformance"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}
 {"tokens": ["I", "got", "rear", "ended", "today", ".", "Luckily", ",", "this", "is", "all", "the", "work", "my", "car", "needed", ".", "https://t.co/4BEOtmooo9"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["teen", "wolf", "sai", "logo", "do", "hiatus", "eu", "te", "imploroo"], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "themovingroad", ":", "Do", "all", "things", "with", "love", ".", "Og", "Mandino", "quote"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 0]}
+{"tokens": ["RT", "@", "themovingroad", ":", "Do", "all", "things", "with", "love", ".", "Og", "Mandino"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10]}
+{"tokens": ["quote"], "ner_tags": [0]}
 {"tokens": ["groovy", "hot", "sex", "videos", "brutal", "interracial", "sex", "https://t.co/svhiOkac2D"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "BeautyOfAnAries", ":", "ARIES", ".", ".", ".", ".", ".", ".", ".", ".", "our", "season", "starts", "in", "4", "days", "😈"], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["@", "JuniorCyclingMY", "N", "9", "Under", "9", "cat", "just", "started", "!", "crit", "@", "khairykj", "https://t.co/XAsXGiPcfG"], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "NBCGrimm", ":", "Get", "ready", "to", "woge", ".", "A", "new", "Grimm", "starts", "NOW", "on", "@", "NBC", ".", "https://t.co/lMQA8aJwzL"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["@", "JuniorCyclingMY", "N", "9", "Under", "9", "cat", "just", "started", "!"], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["crit", "@", "khairykj", "https://t.co/XAsXGiPcfG"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["RT", "@", "NBCGrimm", ":", "Get", "ready", "to", "woge", ".", "A", "new"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Grimm", "starts", "NOW", "on", "@", "NBC", ".", "https://t.co/lMQA8aJwzL"], "ner_tags": [3, 0, 0, 0, 0, 1, 0, 0]}
 {"tokens": ["Tired", "of", "fake", "ass", "love"], "ner_tags": [0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "stefondiggs", ":", "Throw", "some", "more", "dirt", "on", "me", "but", "Ima", "never", "give", "up", ".", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "Independent", ":", "Cutting", "food", "for", "elderly", "'", "most", "compassionate", "thing", "we", "can", "do", "'", ",", "Trump", "team", "says", "https://t.co/waaWhnQ07i"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 0]}
-{"tokens": ["https://t.co/C9riDzsJuv", "GanaConWhoolist", "ConcursoWhoolist"], "ner_tags": [0, 9, 0]}
+{"tokens": ["https://t.co/C9riDzsJuv"], "ner_tags": [0]}
+{"tokens": ["GanaConWhoolist"], "ner_tags": [9]}
+{"tokens": ["ConcursoWhoolist"], "ner_tags": [0]}
 {"tokens": ["@", "OmniDestiny", "I", "'", "m", "all", "for", "freedom", "of", "speech", "and", "expressing", "your", "opinion", ",", "but", "there", "is", "such", "thing", "as", "doing", "so", "respectfully", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "Hozay", "_", "_", ":", "Just", "cancelled", "going", "to", "Italy", ",", "decided", "just", "to", "have", "dinner", "at", "Olive", "Garden", "instead", "https://t.co/ohA1BYzZsK"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 0, 0]}
 {"tokens": ["RT", "@", "kiiingpin", "1997", ":", "I", "want", "to", "be", "someone", "'", "s", "favorite", "person", "to", "talk", "to"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Dear", "Amitabh", "!", "Happy", "Birthday", "to", "your", "daughter", "Shweta", "!", "Happiness", ",", "love", ",", "joy", "and", "life", "for", "many", "years", "!"], "ner_tags": [0, 9, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["naked", "city", "tv", "series", "nude", "google", "videos", "https://t.co/cFIQG0z1tV"], "ner_tags": [3, 4, 4, 4, 0, 0, 0, 0]}
+{"tokens": ["naked", "city", "tv", "series"], "ner_tags": [3, 4, 4, 4]}
+{"tokens": ["nude", "google", "videos", "https://t.co/cFIQG0z1tV"], "ner_tags": [0, 0, 0, 0]}
 {"tokens": ["@", "TripleUrusai", "+", "mind", ".", "Just", "don", "'", "t", "tell", "him", ",", "ok", "?", "\"", "A", "playful", "laugh", "left", "his", "mouth", "as", "he", "held", "a", "finger", "to", "it", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Me", "reading", "really", "sad", "manga", ".", "https://t.co/uBz9CmWSI0"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "KindnessOfMen", ":", "Except", "for", "Bitter", ".", "He", "'", "s", "always", "pissed", "off", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["S", "A", "I", "L", "O", "R", ".", ".", ".", "Photo", "by", "Dinko", "Dream", "Love", "Hope", "Health", "Peace", "&", "amp", ";", "Art", "https://t.co/aKvsWS5yOa"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Daily", "question", "1523", ":", "See", "if", "you", "won", "!", "https://t.co/bFIgz5qPnX", "win", "winners", "https://t.co/p4a9cif6Oj"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["S", "A", "I", "L", "O", "R", ".", ".", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Photo", "by", "Dinko"], "ner_tags": [0, 0, 9]}
+{"tokens": ["Dream"], "ner_tags": [0]}
+{"tokens": ["Love"], "ner_tags": [0]}
+{"tokens": ["Hope"], "ner_tags": [0]}
+{"tokens": ["Health"], "ner_tags": [0]}
+{"tokens": ["Peace", "&", "amp", ";"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["Art", "https://t.co/aKvsWS5yOa"], "ner_tags": [0, 0]}
+{"tokens": ["Daily", "question", "1523", ":", "See", "if", "you", "won", "!", "https://t.co/bFIgz5qPnX"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["win"], "ner_tags": [0]}
+{"tokens": ["winners", "https://t.co/p4a9cif6Oj"], "ner_tags": [0, 0]}
 {"tokens": ["Madama", "butterfly", "in", "the", "English", "pub", ":", "for", "those", "who", "loves", "opera", "with", "their", "pint", ".", "—", "feeling", "intrigued", "at", "King", "'", "s", ".", ".", ".", "https://t.co/ZYqghgQBYp"], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "ricardojkay", ":", "someone", ":", "ur", "crush", "is", "coming", "act", "natural", "me", ":", "https://t.co/GkHJoYTgRW"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Do", "You", "Have", "News", "to", "Share", "?", "Get", "It", "Published", ".", "https://t.co/KXfFdDcPE6"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
@@ -1216,12 +1406,18 @@
 {"tokens": ["Not", "in", "his", "wheel", "house", "!", "Trumpie", "is", "soo", "dump", "he", "don", "'", "t", "know", "what", "he", "don", "'", "t", "know", "!", "To", "stupid", "to", "ask", "for", "help", "or", "advice", "f", "…", "https://t.co/abULFwuvWw"], "ner_tags": [0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["stunning", "earrings", "https://t.co/IrUcgYxk26", "https://t.co/YerXgDeLfP"], "ner_tags": [0, 0, 0, 0]}
 {"tokens": ["RT", "@", "nakbebel", ":", "https://t.co/nvvC11Jfe9"], "ner_tags": [0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "nprmusic", ":", "Watch", "@", "ChicanoBatman", ",", "@", "spoontheband", "and", "@", "TheValerieJune", "live", "from", "SXSW", "beginning", "at", "1", "p", ".", "m", ".", "ET", "via", "@", "VuHaus", ".", "…"], "ner_tags": [0, 0, 5, 0, 0, 0, 5, 0, 0, 5, 0, 0, 5, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["RT", "@", "nprmusic", ":", "Watch", "@", "ChicanoBatman", ",", "@", "spoontheband", "and", "@", "TheValerieJune", "live", "from"], "ner_tags": [0, 0, 5, 0, 0, 0, 5, 0, 0, 5, 0, 0, 5, 0, 0]}
+{"tokens": ["SXSW", "beginning", "at", "1", "p", ".", "m", ".", "ET", "via", "@", "VuHaus", ".", "…"], "ner_tags": [7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["\"", "[", "W", "]", "hen", "the", "bad", "people", "are", "right", "here", "under", "our", "noses", ".", "\"", "https://t.co/J9lFcRp2xj"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "WTF", "_", "Eh", ":", "@", "SheilaGunnReid", "@", "TheRebelTV", "You", "nailed", "it", ".", "NDP", "abpoli", "Notley", "https://t.co/xbGXAlz2q9"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 9, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["resist", "respect", "https://t.co/S33Aqnzc2r"], "ner_tags": [0, 0, 0]}
+{"tokens": ["RT", "@", "WTF", "_", "Eh", ":", "@", "SheilaGunnReid", "@", "TheRebelTV", "You", "nailed", "it", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 9, 0, 3, 0, 0, 0, 0]}
+{"tokens": ["NDP"], "ner_tags": [0]}
+{"tokens": ["abpoli"], "ner_tags": [0]}
+{"tokens": ["Notley", "https://t.co/xbGXAlz2q9"], "ner_tags": [0, 0]}
+{"tokens": ["resist"], "ner_tags": [0]}
+{"tokens": ["respect", "https://t.co/S33Aqnzc2r"], "ner_tags": [0, 0]}
 {"tokens": ["I", "just", "want", "a", "man", "that", "loves", "me", "the", "way", "Jack", "Pearson", "loves", "Rebecca", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 0, 9, 0]}
-{"tokens": ["RT", "@", "twentyonepilots", ":", "feb", "26", "n", "charleston", "ERS", "2017", "photos", "are", "up", ":", "https://t.co/dXf5vti3RU", "https://t.co/ecLypmnxxu"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 7, 3, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["RT", "@", "twentyonepilots", ":", "feb", "26", "n", "charleston"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 7]}
+{"tokens": ["ERS", "2017", "photos", "are", "up", ":", "https://t.co/dXf5vti3RU", "https://t.co/ecLypmnxxu"], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["https://t.co/yUvYvjLhNi", "Listen", "to", "your", "body", ",", "your", "doctor", "and", "your", "common", "sense", "about", "work-related", "injuries", ".", "https://t.co/zz1wnfmQQR"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "FlirtyNotes", ":", "You", "never", "really", "stop", "loving", "someone", ".", "You", "just", "learn", "to", "live", "without", "them", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "CBSSports", "@", "PrimeLeBron", "I", "hate", "that", "family", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0]}
@@ -1232,18 +1428,31 @@
 {"tokens": ["@", "Hugo", "_", "_", "_", "_", "Hugo", "check", "it", "https://t.co/879v3gOyty"], "ner_tags": [0, 3, 0, 0, 0, 0, 3, 0, 0, 0]}
 {"tokens": ["RT", "@", "MarshmallowDoof", ":", "I", "did", "drawn", "the", "Tiger", "Mama", "★", "★", "★", "@", "BuxbiArts", "https://t.co/jjvS2aLyHb"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "defeitoslauren", "_", ":", "error", "404", "could", "not", "found"], "ner_tags": [0, 9, 10, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Nexus", "6", "P", "|", "Nexus", "6", "Sleeve", "Shop", ":", "https://t.co/Rg2eopRpWB", "|", "Nexus", "6", "P", "Nexus", "6", "Nexus", "6", "PSleeve", "Nexus", "6", "PCover", "Nexus", "6", "PLeather", "Nexus", "6", "PCase"], "ner_tags": [11, 12, 12, 0, 11, 12, 12, 0, 0, 0, 0, 11, 12, 0, 11, 12, 11, 12, 12, 11, 12, 12, 11, 12, 12, 11, 12, 12]}
+{"tokens": ["Nexus", "6", "P", "|", "Nexus", "6", "Sleeve", "Shop", ":", "https://t.co/Rg2eopRpWB", "|"], "ner_tags": [11, 12, 12, 0, 11, 12, 12, 0, 0, 0, 0]}
+{"tokens": ["Nexus", "6", "P"], "ner_tags": [11, 12, 0]}
+{"tokens": ["Nexus", "6"], "ner_tags": [11, 12]}
+{"tokens": ["Nexus", "6", "PSleeve"], "ner_tags": [11, 12, 12]}
+{"tokens": ["Nexus", "6", "PCover"], "ner_tags": [11, 12, 12]}
+{"tokens": ["Nexus", "6", "PLeather"], "ner_tags": [11, 12, 12]}
+{"tokens": ["Nexus", "6", "PCase"], "ner_tags": [11, 12, 12]}
 {"tokens": ["RT", "@", "_", "GoGettaVee", ":", "Mentally", ",", "none", "of", "this", "shit", "can", "phase", "me", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["/", ".", "Trump", "administration", "rolls", "back", "protections", "for", "people", "in", "default", "on", "student", "loans", "https://t.co/YPe2DRsjLe"], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["How", ",", "Russ", "?", "ThunderUp", "AssistOfTheNight", "https://t.co/RPOPm3Mdup", "RhodeIsland"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 7]}
+{"tokens": ["How", ",", "Russ", "?"], "ner_tags": [0, 0, 9, 0]}
+{"tokens": ["ThunderUp"], "ner_tags": [0]}
+{"tokens": ["AssistOfTheNight", "https://t.co/RPOPm3Mdup"], "ner_tags": [0, 0]}
+{"tokens": ["RhodeIsland"], "ner_tags": [7]}
 {"tokens": ["RT", "@", "hobuing", ":", "\"", "anyway", "the", "members", "are", "all", "doing", "well", "\"", "\"", "We", "are", "not", "hurt", "and", "we", "are", "eating", "well", "so", "don", "'", "t", "worry", "\"", "https://t.co/O7wRPyZSJ6"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["VoiceOfWipro", "CX", "CargoIndustry", "UX", "https://t.co/02Vzy4mDqc"], "ner_tags": [0, 0, 5, 0, 0]}
+{"tokens": ["VoiceOfWipro"], "ner_tags": [0]}
+{"tokens": ["CX"], "ner_tags": [0]}
+{"tokens": ["CargoIndustry"], "ner_tags": [5]}
+{"tokens": ["UX", "https://t.co/02Vzy4mDqc"], "ner_tags": [0, 0]}
 {"tokens": ["Perspective", "is", "everything", ".", "https://t.co/z3t0Po9knb"], "ner_tags": [0, 0, 0, 0, 0]}
 {"tokens": ["https://t.co/rfHnzqMp2x"], "ner_tags": [0]}
 {"tokens": ["RT", "@", "SalHernandez", ":", "Brett", "Baier", "says", "Fox", "News", "\"", "loves", "\"", "Judge", "Andrew", "Napolitano", ",", "but", "that", "Fox", "News", "was", "not", "able", "to", "verify", "his", "'", "report", "'", "https://…"], "ner_tags": [0, 0, 9, 0, 9, 10, 0, 1, 2, 0, 0, 0, 0, 9, 10, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "WorldStarFunny", ":", "Agreed", "https://t.co/gxHGuH0MR4"], "ner_tags": [0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "anisasx", ":", "41", ")", "Her", "voice", "is", "so", "monotone", "lool", "https://t.co/Bd9Cy8BCFv"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Alain", "3378", "played", "Plague", "Inc", ":", "Evolved", "(", "PS", "4", ")", "in", "the", "last", "24", "hours", "https://t.co/6Tm2ZBNKip", "exophase"], "ner_tags": [9, 0, 0, 3, 4, 4, 4, 0, 11, 12, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Alain", "3378", "played", "Plague", "Inc", ":", "Evolved", "(", "PS", "4", ")", "in", "the", "last", "24", "hours", "https://t.co/6Tm2ZBNKip"], "ner_tags": [9, 0, 0, 3, 4, 4, 4, 0, 11, 12, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["exophase"], "ner_tags": [0]}
 {"tokens": ["RT", "@", "bubblestbh", ":", "do", "u", "ever", "meet", "someone", "for", "the", "first", "time", "and", "pretend", "u", "have", "never", "met", "them", "but", "in", "ur", "head", "ur", "like", "\"", "i", "'", "ve", "stalked", "ur", "Instagr", "…"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0]}
 {"tokens": ["grave", "https://t.co/JnLglavS4c"], "ner_tags": [0, 0]}
 {"tokens": ["Curious", "George", "really", "is", "the", "GOAT"], "ner_tags": [9, 10, 0, 0, 0, 0]}
@@ -1251,23 +1460,32 @@
 {"tokens": ["RT", "@", "fordm", ":", "Kellyanne", "Conway", "'", "s", "husband", ".", "https://t.co/ZbjG3oaibk"], "ner_tags": [0, 0, 9, 0, 9, 10, 0, 0, 0, 0, 0]}
 {"tokens": ["A", "massive", "happy", "birthday", "to", "one", "of", "the", "loveliest", "of", "people", "@", "EmmaWillis", "!", "I", "hope", "you", "have", "the", "best", "day", ",", "you", "deserve", "i", "…", "https://t.co/3F2yHSidpy"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "eatmypepi", ":", "guys", "i", "made", "a", "compilation", "of", "got", "6", "dancing", "the", "sexiest", "part", "in", "never", "ever", "&", "amp", ";", "i", "think", "i", "want", "to", "die", ".", ".", ".", ".", ".", "https://t.co/qrnNcOlbss"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["RT", "@", "LessGovMoreFun", ":", ".", "Sounds", "like", "that", "outfit", "that", "left", "the", "White", "House", "on", "January", "20", ".", ".", ".", ".", "Wiretap", "WireGate", "https://t.co/gFWJJ5Llx0"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["RT", "@", "LessGovMoreFun", ":", ".", "Sounds", "like", "that", "outfit", "that", "left", "the", "White", "House", "on", "January", "20", ".", ".", ".", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Wiretap"], "ner_tags": [0]}
+{"tokens": ["WireGate", "https://t.co/gFWJJ5Llx0"], "ner_tags": [0, 0]}
 {"tokens": ["It", "'", "s", "easy", "now", "cause", "you", "earned", "it", "along", "the", "way", ",", "get", "paid", "young", "nigga", "!", "https://t.co/JUmMFHKICz"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Simple", "Strategy", "to", "build", "wealth", "and", "protect", "yourself", "from", "the", "evils", "of", "inflation", "https://t.co/BodTL8r1pU"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Fake", "news", "trend", "gathering", "momentum-", "a", "little", "common", "sense", "is", "all", "you", "need", "to", "spot", "fake", "news", "https://t.co/xIomaTeVGX"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Simple", "Strategy", "to", "build"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["wealth", "and", "protect", "yourself", "from", "the", "evils", "of", "inflation", "https://t.co/BodTL8r1pU"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Fake", "news", "trend", "gathering", "momentum-", "a", "little", "common", "sense", "is", "all", "you", "need", "to", "spot"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["fake"], "ner_tags": [0]}
+{"tokens": ["news", "https://t.co/xIomaTeVGX"], "ner_tags": [0, 0]}
 {"tokens": ["https://t.co/DdJpiieeak"], "ner_tags": [0]}
 {"tokens": ["RT", "@", "V", "_", "of", "_", "Europe", ":", "Europe", "'", "s", "most", "horrible", "person", "is", "in", "the", "White", "House", ".", "The", "damage", "she", "'", "s", "done", "to", "her", "country", "and", "our", "continent", "is", "unpr", "…"], "ner_tags": [0, 0, 0, 0, 0, 0, 7, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "elklien", ":", "I", "actually", "miss", "primary", "school", "I", "was", "always", "moving", "like", "one", "slaggy", "Kat", "Slater", "having", "like", "3", "relationships", "at", "a", "time"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Ever", "get", "a", "chill", "and", "get", "tingly", "nipples", "for", "10", "minutes", "afterwards", "?", "Asking", "for", "me", ".", "Jealous", "?", "unlikeable"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ever", "get", "a", "chill", "and", "get", "tingly", "nipples", "for", "10", "minutes", "afterwards", "?", "Asking", "for", "me", ".", "Jealous", "?"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["unlikeable"], "ner_tags": [0]}
 {"tokens": ["@", "Yoshkumar", "Happens", "☹", "️", "that", "'", "s", "Esports", "for", "ya"], "ner_tags": [0, 9, 0, 0, 0, 0, 0, 0, 3, 0, 0]}
-{"tokens": ["kim", "burrel", "-", "hold", "2", "ur", "faith", "https://t.co/5SXwx5nhYa", "NowPlaying", "ListenLive"], "ner_tags": [9, 10, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["kim", "burrel", "-", "hold", "2", "ur", "faith", "https://t.co/5SXwx5nhYa"], "ner_tags": [9, 10, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["NowPlaying"], "ner_tags": [0]}
+{"tokens": ["ListenLive"], "ner_tags": [0]}
 {"tokens": ["RT", "@", "sensualgifs", ":", "When", "he", "tells", "you", "no", ",", "but", "then", "comes", "to", "his", "senses", "and", "says", "yes", "https://t.co/RYsrtZtbTD"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "boyband", "_", "joao", ":", "Happy", "Six", "Months", "To", "All", "Of", "The", "Other", "João", "'", "s", "Supporters", "Out", "There", "!", "I", "Love", "You", "All", "!", "More", "Blessings", "For", "Everyone", "!", "❤", "TeamJOA", "…"], "ner_tags": [0, 0, 5, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
 {"tokens": ["RT", "@", "DailySexSupply", "7", ":", "https://t.co/q8ASkhEIJl"], "ner_tags": [0, 0, 0, 0, 0, 0]}
 {"tokens": ["Here", "’", "s", "$", "100", "in", "FREE", "Postmates", "delivery", "credit", "(", "good", "for", "7", "days", ")", ".", "Sign", "up", "with", "my", "code", "EJ", "3", "A", "or", "this", "link", "https://t.co/On1vy7vwzP"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "Drebae", "_", ":", "If", "somebody", "ever", "try", "to", "use", "you", "tell", "your", "hood", "boyfriend", "to", "have", "they", "ass", "handled", ".", "Bet", "they", "cut", "that", "shit", "out", "https://t.co/NDW…"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "GreaterThn", ":", "Me", ":", "\"", "its", "fine", ".", "\"", "Me", ":", "https://t.co/Bqy8z0Fuus"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Latest", "level", ":", "0", ".", "287", "m", "at", "17", "/", "03", "/", "2017", "22", ":", "45", ":", "00", "(", "GMT", ")", ".", "Further", "information", "available", "at", "https://t.co/4yVobHQ8mL", "riverlevels"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Latest", "level", ":", "0", ".", "287", "m", "at", "17", "/", "03", "/", "2017", "22", ":", "45", ":", "00", "(", "GMT", ")", ".", "Further", "information", "available", "at", "https://t.co/4yVobHQ8mL"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["riverlevels"], "ner_tags": [0]}
 {"tokens": ["RT", "@", "anthonyuJR", ":", "When", "I", "believe", "in", "myself", "https://t.co/FsGrGS1pz7"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "TheCourtKim", ":", "you", "'", "re", "single", "until", "you", "'", "re", "officially", "cuffed", "so", "the", "limit", "does", "not", "exist", "✨", "https://t.co/WeVSETs3KH"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Now", "Playing", ":", "Wildfire", "by", "@", "LFDHcom", "Listen", "at", "https://t.co/3OZcf8iDZJ", "https://t.co/tkkXMAhzsn"], "ner_tags": [0, 0, 0, 3, 0, 0, 5, 0, 0, 0, 0]}
@@ -1276,12 +1494,15 @@
 {"tokens": ["RT", "@", "thegirlzakiyyah", ":", "close", "minded", ",", "no", "morals", ",", "selfish", ",", "fake", "spiritual", ",", "no", "goals", ".", ".", "str", "8", "dummy", "'", "s", "for", "u", "https://t.co/voDJgXTqsz"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "litgrimes", ":", "archie", "and", "blair", "—", "i", "know", "she", "like", "me", "https://t.co/gJH2WCGYIu"], "ner_tags": [0, 0, 0, 0, 9, 0, 9, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "marIboros", ":", "short", "girls", "were", "born", "with", "attitudes", "lol"], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["A", "proper", "StPatricksDay", "drink", "https://t.co/c4VcUFEQXw"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["A", "proper"], "ner_tags": [0, 0]}
+{"tokens": ["StPatricksDay", "drink", "https://t.co/c4VcUFEQXw"], "ner_tags": [0, 0, 0]}
 {"tokens": ["RT", "@", "PainfulText", ":", "i", "do", "really", "hate", "how", "my", "brain", "overthinks", "literally", "everything"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Never", "Been", "To", "Shakers", "Before"], "ner_tags": [0, 0, 0, 7, 0]}
 {"tokens": ["https://t.co/hh3PVQ5L0a"], "ner_tags": [0]}
 {"tokens": ["RT", "@", "Ioverthoughts", ":", "i", "like", "looking", "cute", "but", "i", "like", "wearing", "XL", "tshirts", "more"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["RT", "@", "tybrokesign", ":", "talk", "about", "a", "plot", "twist", "LMAOOOO", "https://t.co/9ytVOPvu8D"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["It", "'", "s", "FF", "add", "us", "https://t.co/1W0ACWfr10", "repost", "and", "I", "'", "ll", "add", "you", "too", "✌", "ATCCfoodie"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["It", "'", "s"], "ner_tags": [0, 0, 0]}
+{"tokens": ["FF", "add", "us", "https://t.co/1W0ACWfr10", "repost", "and", "I", "'", "ll", "add", "you", "too", "✌"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["ATCCfoodie"], "ner_tags": [0]}
 {"tokens": ["No", "Cousins", "today", ".", ".", ".", "Pelicans", "offence", "could", "be", "horrible", "today", "unless", "Holiday", "has", "a", "big", "game", "and", "we", "hit", "jumpers"], "ner_tags": [0, 5, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["@", "KenyeahMonae", "It", "'", "s", "my", "school", "fault", ",", "girl", "they", "cutting", "up", "with", "this", "dress", "code", "😂"], "ner_tags": [9, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}

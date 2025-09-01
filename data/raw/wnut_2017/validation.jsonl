@@ -50,7 +50,9 @@
 {"tokens": ["Did", "this", "come", "out", "after", "twin", "peaks", "or", "was", "it", "supposed", "to", "be", "watched", "before", "it", "all", "kicked", "off", "?"], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Welcome", "to", "Oregon", "from", "Troutdale", "(", "east", "portland", ")", ",", "enjoy", "our", "(", "few", ")", "nice", "days", "right", "now", "."], "ner_tags": [0, 0, 7, 0, 7, 0, 7, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Nifty", "Gadgets", "!", "Love", "the", "light", "best", ".", "Yet", "I", "would", "camp", "with", "all", "of", "the", "items", ".", "Ax", "was", "cool", "too", "!"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Question", ".", "How", "do", "you", "have", "267", "K", "subs", "and", "ZERO", "VIEWS", "?", "bots", "payforsubs"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Question", ".", "How", "do", "you", "have", "267", "K", "subs", "and", "ZERO", "VIEWS", "?"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["bots"], "ner_tags": [0]}
+{"tokens": ["payforsubs"], "ner_tags": [0]}
 {"tokens": ["can", "i", "have", "fidget", "spinner", "my", "name", "is", "called", "Ahmed", "and", "i", "am", "go", "to", "orchard", "academy", "in", "milton", "keyons"], "ner_tags": [0, 0, 0, 11, 12, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 7, 8, 0, 7, 8]}
 {"tokens": ["when", "people", "want", "a", "Pure", "breed", "they", "should", "buy", "a", "dog", "with", "pedigree", ".", "if", "they", "dont", "care", "then", "just", "support", "a", "shelter", ",", "therr", "is", "tons", "of", "young", "dogs", "and", "even", "puppies", ".", ".", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Kimmel", "2015", "?"], "ner_tags": [9, 0, 0]}
@@ -94,7 +96,8 @@
 {"tokens": ["That", "was", "freakin", "AWESOME", "!"], "ner_tags": [0, 0, 0, 0, 0]}
 {"tokens": ["salute", "to", "sitaram", "katel", "and", "kunjana"], "ner_tags": [0, 0, 9, 10, 0, 9]}
 {"tokens": ["Please", "tell", "me", "that", "Rift", "herald", "still", "will", "have", "that", "easter", "egg", "of", "if", "you", "dance", "she", "dances", ".", "I", "love", "to", "do", "that", "when", "im", "jungle", "and", "waiting", "for", "camps", "to", "respawn"], "ner_tags": [0, 0, 0, 0, 11, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Lil", "Sly-", "Turn", "Up", "Green", "NextToBlow"], "ner_tags": [9, 10, 3, 4, 4, 0]}
+{"tokens": ["Lil", "Sly-", "Turn", "Up", "Green"], "ner_tags": [9, 10, 3, 4, 4]}
+{"tokens": ["NextToBlow"], "ner_tags": [0]}
 {"tokens": ["Am", "I", "the", "only", "thinking", "there", "for", "looks", "do", "good", "and", "wondering", "where", "it", "'", "s", "from", "lol"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["good", "video", "Dude", ".", "do", "n", "'", "t", "listen", "to", "the", "haters"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Anytime", "you", "build", "a", "pc", "with", "only", "one", "gpu", ",", "go", "mini", "itx", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 12, 0]}
@@ -177,7 +180,8 @@
 {"tokens": ["YAY", "2", "M", "SUBS"], "ner_tags": [0, 0, 0, 0]}
 {"tokens": ["Murphy", "'", "s", "law", ":", "Everything", "that", "could", "go", "wrong", "will", "go", "wrong"], "ner_tags": [9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Luv", "the", "vids"], "ner_tags": [0, 0, 0]}
-{"tokens": ["I", "think", "the", "original", "sounds", "better", "GazaGenahsyde"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "think", "the", "original", "sounds", "better"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["GazaGenahsyde"], "ner_tags": [0]}
 {"tokens": ["Awesome", "video", ".", "The", "girls", "are", "super", "mega", "cute", "<", "3"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Primer", "hokage", ":", "v"], "ner_tags": [0, 0, 0, 0]}
 {"tokens": ["throwing", "a", "donnunt", ".", ".", ".", "talking", "about", "NK"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
@@ -215,9 +219,11 @@
 {"tokens": ["When", "I", "was", "a", "kid", "my", "Dad", "shot", "me", "in", "the", "head", "with", "a", "real", "gun", ",", "killing", "me", "instantly", ",", "but", "it", "made", "me", "a", "stronger", "person", "!"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Game", "of", "Thrones", "is", "not", "based", "on", "earth", "js"], "ner_tags": [3, 4, 4, 0, 0, 0, 0, 7, 0]}
 {"tokens": ["RIP", "turtle", "cam", "."], "ner_tags": [0, 0, 0, 0]}
-{"tokens": ["Where", "is", "Vinkare", "and", "Herbalisti", "torillatavataa"], "ner_tags": [0, 0, 9, 0, 9, 0]}
+{"tokens": ["Where", "is", "Vinkare", "and", "Herbalisti"], "ner_tags": [0, 0, 9, 0, 9]}
+{"tokens": ["torillatavataa"], "ner_tags": [0]}
 {"tokens": ["First", "Ho-", "Oh", "next", "his", "brother", "Lugia"], "ner_tags": [0, 0, 0, 0, 0, 0, 9]}
-{"tokens": ["The", "Clinton", "Foundation", "should", "be", "1", "with", "$", "2", "billion", "collected", "and", "less", "than", "10", "%", "to", "the", "needy", "."], "ner_tags": [1, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["The", "Clinton", "Foundation", "should", "be"], "ner_tags": [1, 1, 2, 0, 0]}
+{"tokens": ["1", "with", "$", "2", "billion", "collected", "and", "less", "than", "10", "%", "to", "the", "needy", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Request", ":", "SML", "Movie", ":", "Princess", "Peach", "Comes", "Back"], "ner_tags": [0, 0, 3, 4, 4, 3, 4, 4, 4]}
 {"tokens": ["Am", "I", "the", "only", "one", "who", "cannot", "stand", "how", "Ivanka", "talks"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0]}
 {"tokens": ["mehmood", "sahab", "never", "give", "a", "bad", "word", "to", "some", "person", "mom", "dad", "he", "said", "pagal", "kay", "bacha", "please", "do", "n", "'", "t", "abuse"], "ner_tags": [9, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 10, 0, 0, 0, 0, 0, 0]}
@@ -235,7 +241,9 @@
 {"tokens": ["there", "are", "like", "785", "Pokémon", "think"], "ner_tags": [0, 0, 0, 0, 3, 0]}
 {"tokens": ["Can", "you", "set", "up", "auditory", "controls", "so", "that", "I", "do", "n", "'", "t", "have", "to", "dirty", "up", "my", "mirror", "?", "Thanks", ",", "-", "Damien"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9]}
 {"tokens": ["So", "uh", ".", ".", ".", ".", "what", "do", "you", "guys", "think", "the", "price", "tag", "on", "the", "scaled", "down", "model", "would", "be", "?", "That", "'", "d", "make", "a", "sick", "R", "/", "C", "car", ":", "D"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Jordan", ".", ".", "score", "a", "few", "more", ".", ".", ".", "and", "stop", "getting", "F", "@", "KING", "injured", "you", "C", "@", "T"], "ner_tags": [9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jordan", ".", ".", "score", "a", "few", "more", ".", ".", ".", "and", "stop", "getting", "F", "@"], "ner_tags": [9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["KING", "injured", "you", "C", "@"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["T"], "ner_tags": [0]}
 {"tokens": ["Okay", ".", "Tell", "me", "why", "this", "man", "loses", "his", "glasses", "EVERY", "time", "he", "falls", "and", "then", "conveniently", "finds", "them", "2", "inches", "away", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Nice", "video", ",", "really", "enjoyed", "it", ".", "Thanks", "for", "uploading", ".", "Much", "Love", "Miccoli"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9]}
 {"tokens": ["PG", "Troydan", "eh", "?", "Lol"], "ner_tags": [9, 10, 0, 0, 0]}
@@ -413,7 +421,8 @@
 {"tokens": ["Wow", ",", "employees", "are", "so", "chill", "there", "!", "Anyway", "they", "have", "360", "cameras", "in", "the", "store"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Paul", "'", "s", "house", "is", "better"], "ner_tags": [9, 0, 0, 0, 0, 0]}
 {"tokens": ["You", "put", "so", "much", "effort", "on", "this", "video", ",", "Joan", "!", "!", "This", "is", "so", "helpful", "and", "I", "really", "appreciate", "all", "your", "hard", "works", "!", "!", "Love", "YOU", "❤", "❤", "❤"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Katy", "that", "'", "s", "me", "in", "your", "video", "!", "!", "!", "!", "It", "was", "so", "nice", "meeting", "you", "and", "Jonyeee", "!", "I", "watch", "you", "and", "Desi", "everyday", "and", "to", "finally", "meet", "you", "was", "freaking", "awesomeeee", "!", "!", "You", "are", "beautiful", "girl", "!", "snapfam"], "ner_tags": [9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Katy", "that", "'", "s", "me", "in", "your", "video", "!", "!", "!", "!", "It", "was", "so", "nice", "meeting", "you", "and", "Jonyeee", "!", "I", "watch", "you", "and", "Desi", "everyday", "and", "to", "finally", "meet", "you", "was", "freaking", "awesomeeee", "!", "!", "You", "are", "beautiful", "girl", "!"], "ner_tags": [9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["snapfam"], "ner_tags": [0]}
 {"tokens": ["tfw", "a", "Legendary", "Skin", "is", "better", "then", "a", "Ultimate", "skin", "."], "ner_tags": [0, 0, 11, 12, 0, 0, 0, 0, 11, 12, 0]}
 {"tokens": ["thank", "you", "for", "your", "service", "to", "your", "community", ".", ".", "G-D", "speed", ",", ","], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Hope", "those", "refugees", "can", "benefit", ".", "A", "goldmine", "of", "potential", "they", "would", "'", "ve", "lost", "in", "Syria", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0]}
@@ -462,7 +471,10 @@
 {"tokens": ["*", "*", "SESSEL", "*", "*"], "ner_tags": [0, 0, 0, 0, 0]}
 {"tokens": ["I", "LIVE", "FOR", "YOUR", "VLOGS", "ESTEE", "!", "Ps", ".", "the", "quality", "is", "so", "good", "which", "camera", "do", "you", "use", "if", "you", "do", "n", "'", "t", "mind", "me", "asking", "?", ":", ")"], "ner_tags": [0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["So", "many", "butthurt", "Sinophiles", "in", "the", "comments"], "ner_tags": [0, 0, 0, 5, 0, 0, 0]}
-{"tokens": ["100", "Days", "of", "Record", "setting", "Accomplishments", "The", "Lamestream", "media", "and", "other", "FakeNews", "LiberalLunatics", "Do", "n", "'", "t", "Want", "You", "To", "Know", "About", "can", "be", "read", "at", "www", ".", "whitehouse", ".", "gov", "Statements", "&", "Releases"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["100", "Days", "of", "Record", "setting", "Accomplishments", "The"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Lamestream", "media", "and", "other"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["FakeNews"], "ner_tags": [0]}
+{"tokens": ["LiberalLunatics", "Do", "n", "'", "t", "Want", "You", "To", "Know", "About", "can", "be", "read", "at", "www", ".", "whitehouse", ".", "gov", "Statements", "&", "Releases"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["crawpa", "a", "eat", "it", "too", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
 {"tokens": ["Are", "planes", "the", "new", "fight", "club", "?"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Guess", "who", "'", "s", "back", "again"], "ner_tags": [0, 0, 0, 0, 0, 0]}
@@ -599,14 +611,16 @@
 {"tokens": ["Willie", "Nelson", "will", "always", "be", "a", "true", "legend", "and", "still", "making", "good", "music", "at", "84", "years", "old"], "ner_tags": [9, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["That", "Eclipse", "Spyder", "thoo", ".", ".", "love", "at", "first", "sight", "!", "!"], "ner_tags": [0, 11, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Themba", "is", "obsessed"], "ner_tags": [9, 0, 0]}
-{"tokens": ["Why", "are", "you", "not", "talking", "about", "Trump", "using", "the", "White", "power", "hand", "signal", ".", "NotOk"], "ner_tags": [0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Why", "are", "you", "not", "talking", "about", "Trump", "using", "the", "White", "power", "hand", "signal", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["NotOk"], "ner_tags": [0]}
 {"tokens": ["Narrator", "Sucks", "!", "Are", "they", "teaching", "female", "anchors", "to", "sound", "like", "valley", "girls", "now", "?"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Wait", "simon", "wears", "glasses", "?", "?", "?", "?"], "ner_tags": [0, 9, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["When", "you", "order", "deconstructed", "car", "at", "the", "MCM", "restaurant"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 7, 8]}
 {"tokens": ["Jaime", "please", "i", "need", "help", ",", "google", "pixel", "or", "galaxy", "s", "8", "?", "i", "trust", "you", "."], "ner_tags": [9, 0, 0, 0, 0, 0, 11, 12, 0, 11, 12, 12, 0, 0, 0, 0, 0]}
 {"tokens": ["So", "fitting", "that", "Bodega", "was", "a", "shit", "detective", "."], "ner_tags": [0, 0, 0, 9, 0, 0, 0, 0, 0]}
 {"tokens": ["Plus", "?", "Seriously", "?", "Jesus", "you", "ca", "n", "'", "t", "even", "think", "of", "a", "name", "by", "yourselves", ".", ".", ".", ".", ".", ".", ".", ".", ".", "."], "ner_tags": [0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["it", "'", "s", "show", "time", "all", "guys", "wait", "for", "it", "to", "bang", "jai", "rebelism", "Jai", "prabhas"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 9, 10]}
+{"tokens": ["it", "'", "s", "show", "time", "all", "guys", "wait", "for", "it", "to", "bang", "jai", "rebelism"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10]}
+{"tokens": ["Jai", "prabhas"], "ner_tags": [9, 10]}
 {"tokens": ["Proof", "that", "Travis", "scott", "sold", "his", "soul", "to", "the", "devil", "😂", "😂"], "ner_tags": [0, 0, 9, 10, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Nice", "of", "the", "jerk", "who", "cross", "checked", "him", "upside", "the", "head", "to", "come", "see", "if", "he", "'", "s", "ok", ".", "Was", "n", "'", "t", "it", "?"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["OMFG", "WHY", "THIS", "SHIT", "IS", "1", "S", "IN", "TRENDING", "?", "OMFG", "REMOVE", "THIS", "SHIT", "!"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
@@ -655,7 +669,8 @@
 {"tokens": ["Where", "'", "s", "Kishan", "?"], "ner_tags": [0, 0, 0, 9, 0]}
 {"tokens": ["the", "movie", "its", "not", "bad", ",", "eyin", "omo", "eda", "adamo", ",", "won", "fi", "enu", "gba", "je", ",", "kudos", "to", "the", "crews", ",", "let", "us", "appreciate", "there", "efforts", ",", "thanks", "for", "the", "upload", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["yeah", "but", "conor", "makes", "more", "than", "anyone", "like", "a", "million", ".", "conor", "makes", "millions", "for", "a", "fight", "."], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["I", "think", "5", "is", "inspired", "by", "\"", "Who", "'", "s", "on", "first", "?", "\""], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 4, 4, 4, 0]}
+{"tokens": ["I", "think"], "ner_tags": [0, 0]}
+{"tokens": ["5", "is", "inspired", "by", "\"", "Who", "'", "s", "on", "first", "?", "\""], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 4, 4, 4, 4, 0]}
 {"tokens": ["this", "makes", "me", "EXTREMELY", "uncomfortable", ".", ".", ".", "like", "wow", "lmfao"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Could", "you", "guys", "go", "to", "Ipswich", ",", "QLD"], "ner_tags": [0, 0, 0, 0, 0, 7, 8, 8]}
 {"tokens": ["Beauty", "and", "the", "Beast", "live", "action", "was", "great", ".", ".", ".", "on", "par", "with", "the", "original", ",", "if", "not", "better", "."], "ner_tags": [3, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
@@ -718,7 +733,8 @@
 {"tokens": ["What", "Would", "Happen", "If", "The", "Earth", "Suddenly", "Disappeared", "?", "what", "would", "happen", "to", "all", "the", "space", "stations", "?"], "ner_tags": [0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["They", "should", "have", "a", "tri", "tip", "feast", "since", "theyre", "in", "cali"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7]}
 {"tokens": ["Hit", "the", "like", "button", "Great", "person", "of", "punjabi", "music", "industry"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["Goodbye", "monetization", "!", "1", "on", "trending"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Goodbye", "monetization", "!"], "ner_tags": [0, 0, 0]}
+{"tokens": ["1", "on", "trending"], "ner_tags": [0, 0, 0]}
 {"tokens": ["I", "swear", "I", "thought", "that", "was", "a", "throwback", "of", "Bindi", "Irwin", "!"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 0]}
 {"tokens": ["whats", "the", "song", "called", "when", "brett", "gets", "kissed", "lmao"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Is", "it", "me", "or", "did", "elmo", "sound", "like", "a", "car", "locking"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
@@ -863,7 +879,8 @@
 {"tokens": ["how", "anyone", "can", "prefer", "a", "V", "6", "over", "a", "Straight", "6", "is", "beyond", "me", ".", ".", ".", ".", "SUCH", "a", "nice", "sound", "!"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Make", "more", "if", "you", "like", "if", "you", "agree"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Um", "it", "'", "s", "just", "music", ".", "You", "people", "are", "taking", "it", "way", "too", "personal", ".", "Ishawna", "did", "an", "OK", "song", "but", "this", "diss", "was", "fire", "🔥", "🔥", "🔥", "🔥", "🔥", "it", "'", "s", "a", "money", "making", "industry", "and", "clearly", "suck", "pussy", "nah", "do", "road", ".", "So", "relax", "and", "have", "a", "good", "listen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-{"tokens": ["wtf", "these", "niggas", "snappin", "😥", "😥", "feel", "sorry", "for", "the", "upcomming", "artist", "QC", "fuck", "niggas"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["wtf", "these", "niggas", "snappin", "😥", "😥", "feel", "sorry", "for", "the", "upcomming", "artist"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["QC", "fuck", "niggas"], "ner_tags": [0, 0, 0]}
 {"tokens": ["This", "would", "have", "been", "a", "lot", "better", "if", "Bee", "was", "n", "'", "t", "so", "annoying"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["I", "wonder", "if", "iDubbbz", "just", "plays", "with", "this", "when", "he", "'", "s", "not", "filming", "."], "ner_tags": [0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Muselk", "is", "the", "best", ":", "D", "Sexy", "junkrat", "ftw"], "ner_tags": [9, 0, 0, 0, 0, 0, 0, 0, 0]}
