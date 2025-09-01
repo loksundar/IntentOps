@@ -1,0 +1,11 @@
+Invoke-WebRequest https://raw.githubusercontent.com/leondz/emerging_entities_17/master/wnut17train.conll -OutFile data/raw/wnut2017/wnut17train.conll
+Invoke-WebRequest https://raw.githubusercontent.com/leondz/emerging_entities_17/master/emerging.dev.conll -OutFile data/raw/wnut2017/emerging.dev.conll
+Invoke-WebRequest https://raw.githubusercontent.com/leondz/emerging_entities_17/master/emerging.test.conll -OutFile data/raw/wnut2017/emerging.test.conll
+
+
+
+Invoke-WebRequest https://raw.githubusercontent.com/clinc/oos-eval/master/data/data_full.json -OutFile data/raw/clinc_oos/data_full.json
+Invoke-WebRequest https://raw.githubusercontent.com/clinc/oos-eval/master/data/data_oos_plus.json -OutFile data/raw/clinc_oos/data_oos_plus.json
+
+
+
